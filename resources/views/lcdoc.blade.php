@@ -870,25 +870,25 @@
                                             </div>
                                             <ul id="menu-main-menu" class="ct-main-menu sub-hover children-plus clearfix">
                                                 <li id="menu-item-3911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3911">
-                                                    <a href="/welcome" class="show-demos">
+                                                    <a href="/home" class="show-demos">
                                                         <span>Home</span>
                                                     </a>
                                                 </li>
 
-                                                <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/lcDoc"><span>LC</span></a>
+                                                <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/lc-docs"><span>LC</span></a>
                                                     
                                                 </li>
-                                                <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/creditInsurance"><span>Trade Credit Insurance</a>
+                                                <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/credit-insurance"><span>Trade Credit Insurance</a>
                                                    
                                                 </li>
 
-                                                <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/about.html"><span>About</a>
+                                                <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/about"><span>About</a>
                                                    
                                                 </li>
 
-                                                <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/collection-doc.html"><span>Contact</a>
+                                                <!-- <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/collection-doc.html"><span>Contact</a>
                                                    
-                                                </li>
+                                                </li> -->
                                                 
                                             
                                                
