@@ -1,0 +1,71 @@
+@font-face {
+    font-family: flaticon-v4;
+    src: url(../fonts/Flaticon-v4.eot);
+    src: url(../fonts/Flaticon-v4.eot?#iefix)format("embedded-opentype"), url(../fonts/Flaticon-v4.woff)format("woff"), url(../fonts/Flaticon-v4.ttf)format("truetype"), url(../fonts/Flaticon-v4.svg#Flaticon-v4)format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon-v4;
+        src: url(../fonts/Flaticon-v4.svg#Flaticon-v4)format("svg")
+    }
+}
+
+[class^=flaticonv4-]:before,
+[class*=" flaticonv4-"]:before,
+[class^=flaticonv4-]:after,
+[class*=" flaticonv4-"]:after {
+    font-family: Flaticon-v4;
+    font-size: inherit;
+    font-style: normal
+}
+
+.flaticonv4-doctor:before {
+    content: "\f100"
+}
+
+.flaticonv4-panic-1:before {
+    content: "\f101"
+}
+
+.flaticonv4-clean:before {
+    content: "\f102"
+}
+
+.flaticonv4-keep-distance:before {
+    content: "\f103"
+}
+
+.flaticonv4-cleaner:before {
+    content: "\f104"
+}
+
+.flaticonv4-sweeping:before {
+    content: "\f105"
+}
+
+.flaticonv4-next:before {
+    content: "\f106"
+}
+
+.flaticonv4-arrow:before {
+    content: "\f107"
+}
+
+.flaticonv4-bar-graph:before {
+    content: "\f108"
+}
+
+.flaticonv4-refresh:before {
+    content: "\f109"
+}
+
+.flaticonv4-grow-shop:before {
+    content: "\f10a"
+}
+
+.flaticonv4-interest:before {
+    content: "\f10b"
+}

@@ -1,0 +1,123 @@
+@font-face {
+    font-family: flaticon-v2;
+    src: url(../fonts/Flaticon-v2.eot);
+    src: url(../fonts/Flaticon-v2.eot?#iefix)format("embedded-opentype"), url(../fonts/Flaticon-v2.woff)format("woff"), url(../fonts/Flaticon-v2.ttf)format("truetype"), url(../fonts/Flaticon-v2.svg#Flaticon-v2)format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon-v2;
+        src: url(../fonts/Flaticon-v2.svg#Flaticon-v2)format("svg")
+    }
+}
+
+[class^=flaticonv2-]:before,
+[class*=" flaticonv2-"]:before,
+[class^=flaticonv2-]:after,
+[class*=" flaticonv2-"]:after {
+    font-family: Flaticon-v2;
+    font-size: inherit;
+    font-style: normal
+}
+
+.flaticonv2-aeroplane:before {
+    content: "\f100"
+}
+
+.flaticonv2-id-card:before {
+    content: "\f101"
+}
+
+.flaticonv2-shield:before {
+    content: "\f102"
+}
+
+.flaticonv2-earning-money-idea:before {
+    content: "\f103"
+}
+
+.flaticonv2-list:before {
+    content: "\f104"
+}
+
+.flaticonv2-menu:before {
+    content: "\f105"
+}
+
+.flaticonv2-banknote:before {
+    content: "\f106"
+}
+
+.flaticonv2-creative:before {
+    content: "\f107"
+}
+
+.flaticonv2-network:before {
+    content: "\f108"
+}
+
+.flaticonv2-speech-bubble:before {
+    content: "\f109"
+}
+
+.flaticonv2-layers:before {
+    content: "\f10a"
+}
+
+.flaticonv2-gear:before {
+    content: "\f10b"
+}
+
+.flaticonv2-computer:before {
+    content: "\f10c"
+}
+
+.flaticonv2-objective:before {
+    content: "\f10d"
+}
+
+.flaticonv2-right-arrow:before {
+    content: "\f10e"
+}
+
+.flaticonv2-long-arrow-pointing-to-the-right:before {
+    content: "\f10f"
+}
+
+.flaticonv2-edit:before {
+    content: "\f110"
+}
+
+.flaticonv2-responsive:before {
+    content: "\f111"
+}
+
+.flaticonv2-speed:before {
+    content: "\f112"
+}
+
+.flaticonv2-happiness:before {
+    content: "\f113"
+}
+
+.flaticonv2-play-button:before {
+    content: "\f114"
+}
+
+.flaticonv2-pin:before {
+    content: "\f115"
+}
+
+.flaticonv2-thin-arrowheads-pointing-down:before {
+    content: "\f116"
+}
+
+.flaticonv2-multiply:before {
+    content: "\f117"
+}
+
+.flaticonv2-right-quotation-mark:before {
+    content: "\f118"
+}

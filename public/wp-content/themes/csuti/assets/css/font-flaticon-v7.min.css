@@ -1,0 +1,171 @@
+@font-face {
+    font-family: flaticon-v7;
+    src: url(../fonts/flaticon-v7.eot);
+    src: url(../fonts/flaticon-v7.eot?#iefix)format("embedded-opentype"), url(../fonts/flaticon-v7.woff)format("woff"), url(../fonts/flaticon-v7.ttf)format("truetype"), url(../fonts/flaticon-v7.svg#flaticon-v7)format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon-v7;
+        src: url(../fonts/flaticon-v7.svg#flaticon-v7)format("svg")
+    }
+}
+
+[class^=flaticonv7-]:before,
+[class*=" flaticonv7-"]:before,
+[class^=flaticonv7-]:after,
+[class*=" flaticonv7-"]:after {
+    font-family: flaticon-v7;
+    font-size: inherit;
+    font-style: normal
+}
+
+.flaticonv7-analytics:before {
+    content: "\f101"
+}
+
+.flaticonv7-app-store:before {
+    content: "\f102"
+}
+
+.flaticonv7-audit:before {
+    content: "\f103"
+}
+
+.flaticonv7-chat-1:before {
+    content: "\f104"
+}
+
+.flaticonv7-check:before {
+    content: "\f105"
+}
+
+.flaticonv7-consulting:before {
+    content: "\f106"
+}
+
+.flaticonv7-contact-book:before {
+    content: "\f107"
+}
+
+.flaticonv7-contacts-book:before {
+    content: "\f108"
+}
+
+.flaticonv7-crown:before {
+    content: "\f109"
+}
+
+.flaticonv7-dental:before {
+    content: "\f10a"
+}
+
+.flaticonv7-exclusive:before {
+    content: "\f10b"
+}
+
+.flaticonv7-follower:before {
+    content: "\f10c"
+}
+
+.flaticonv7-goal:before {
+    content: "\f10d"
+}
+
+.flaticonv7-google-play:before {
+    content: "\f10e"
+}
+
+.flaticonv7-graphics:before {
+    content: "\f10f"
+}
+
+.flaticonv7-grid-1:before {
+    content: "\f110"
+}
+
+.flaticonv7-grid:before {
+    content: "\f111"
+}
+
+.flaticonv7-idea:before {
+    content: "\f112"
+}
+
+.flaticonv7-leaf:before {
+    content: "\f113"
+}
+
+.flaticonv7-magnifying-glass:before {
+    content: "\f114"
+}
+
+.flaticonv7-more:before {
+    content: "\f115"
+}
+
+.flaticonv7-network:before {
+    content: "\f116"
+}
+
+.flaticonv7-next:before {
+    content: "\f117"
+}
+
+.flaticonv7-no:before {
+    content: "\f118"
+}
+
+.flaticonv7-phone-call-1:before {
+    content: "\f119"
+}
+
+.flaticonv7-phone-call-2:before {
+    content: "\f11a"
+}
+
+.flaticonv7-phone-call:before {
+    content: "\f11b"
+}
+
+.flaticonv7-play-button:before {
+    content: "\f11c"
+}
+
+.flaticonv7-rate:before {
+    content: "\f11d"
+}
+
+.flaticonv7-right-1:before {
+    content: "\f11e"
+}
+
+.flaticonv7-right:before {
+    content: "\f11f"
+}
+
+.flaticonv7-shield:before {
+    content: "\f120"
+}
+
+.flaticonv7-space-rocket-launch:before {
+    content: "\f121"
+}
+
+.flaticonv7-tap:before {
+    content: "\f122"
+}
+
+.flaticonv7-target:before {
+    content: "\f123"
+}
+
+.flaticonv7-tourism:before {
+    content: "\f124"
+}
+
+.flaticonv7-training:before {
+    content: "\f125"
+}

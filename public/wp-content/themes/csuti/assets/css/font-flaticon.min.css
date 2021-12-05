@@ -1,0 +1,239 @@
+@font-face {
+    font-family: flaticon;
+    src: url(../fonts/Flaticon.eot);
+    src: url(../fonts/Flaticon.eot?#iefix)format("embedded-opentype"), url(../fonts/Flaticon.woff2)format("woff2"), url(../fonts/Flaticon.woff)format("woff"), url(../fonts/Flaticon.ttf)format("truetype"), url(../fonts/Flaticon.svg#Flaticon)format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon;
+        src: url(../fonts/Flaticon.svg#Flaticon)format("svg")
+    }
+}
+
+[class^=flaticon-]:before,
+[class*=" flaticon-"]:before,
+[class^=flaticon-]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: inherit;
+    font-style: normal
+}
+
+.flaticon-skill:before {
+    content: "\f100"
+}
+
+.flaticon-setting-spanner:before {
+    content: "\f101"
+}
+
+.flaticon-bar-graph:before {
+    content: "\f102"
+}
+
+.flaticon-target:before {
+    content: "\f103"
+}
+
+.flaticon-gear:before {
+    content: "\f104"
+}
+
+.flaticon-telephone:before {
+    content: "\f105"
+}
+
+.flaticon-map:before {
+    content: "\f106"
+}
+
+.flaticon-add-location-point:before {
+    content: "\f107"
+}
+
+.flaticon-puzzle:before {
+    content: "\f108"
+}
+
+.flaticon-diagram:before {
+    content: "\f109"
+}
+
+.flaticon-stats:before {
+    content: "\f10a"
+}
+
+.flaticon-presentation:before {
+    content: "\f10b"
+}
+
+.flaticon-chart:before {
+    content: "\f10c"
+}
+
+.flaticon-award-symbol:before {
+    content: "\f10d"
+}
+
+.flaticon-strategy:before {
+    content: "\f10e"
+}
+
+.flaticon-group:before {
+    content: "\f10f"
+}
+
+.flaticon-leadership:before {
+    content: "\f110"
+}
+
+.flaticon-growth:before {
+    content: "\f111"
+}
+
+.flaticon-report:before {
+    content: "\f112"
+}
+
+.flaticon-marketing-strategy:before {
+    content: "\f113"
+}
+
+.flaticon-menu:before {
+    content: "\f114"
+}
+
+.flaticon-product:before {
+    content: "\f115"
+}
+
+.flaticon-bank:before {
+    content: "\f116"
+}
+
+.flaticon-graph:before {
+    content: "\f117"
+}
+
+.flaticon-pie-chart:before {
+    content: "\f118"
+}
+
+.flaticon-internet:before {
+    content: "\f119"
+}
+
+.flaticon-earnings:before {
+    content: "\f11a"
+}
+
+.flaticon-award:before {
+    content: "\f11b"
+}
+
+.flaticon-social-media:before {
+    content: "\f11c"
+}
+
+.flaticon-target-1:before {
+    content: "\f11d"
+}
+
+.flaticon-bank-building:before {
+    content: "\f11e"
+}
+
+.flaticon-handshake:before {
+    content: "\f11f"
+}
+
+.flaticon-presentation-board-with-graph:before {
+    content: "\f120"
+}
+
+.flaticon-increased-revenue:before {
+    content: "\f121"
+}
+
+.flaticon-teamwork:before {
+    content: "\f122"
+}
+
+.flaticon-tools:before {
+    content: "\f123"
+}
+
+.flaticon-target-2:before {
+    content: "\f124"
+}
+
+.flaticon-male-job-search-symbol:before {
+    content: "\f125"
+}
+
+.flaticon-credit-card:before {
+    content: "\f126"
+}
+
+.flaticon-placeholder:before {
+    content: "\f127"
+}
+
+.flaticon-phone-call:before {
+    content: "\f128"
+}
+
+.flaticon-black-back-closed-envelope-shape:before {
+    content: "\f129"
+}
+
+.flaticon-scales-of-justice:before {
+    content: "\f12a"
+}
+
+.flaticon-auction:before {
+    content: "\f12b"
+}
+
+.flaticon-court:before {
+    content: "\f12c"
+}
+
+.flaticon-mace:before {
+    content: "\f12d"
+}
+
+.flaticon-light-bulb:before {
+    content: "\f12e"
+}
+
+.flaticon-shield:before {
+    content: "\f12f"
+}
+
+.flaticon-dollar-symbol:before {
+    content: "\f130"
+}
+
+.flaticon-chart-1:before {
+    content: "\f131"
+}
+
+.flaticon-eye:before {
+    content: "\f132"
+}
+
+.flaticon-cloud:before {
+    content: "\f133"
+}
+
+.flaticon-graph-1:before {
+    content: "\f134"
+}
+
+.flaticon-document:before {
+    content: "\f135"
+}

@@ -1,0 +1,232 @@
+@font-face {
+    font-family: flaticon-v3;
+    src: url(../fonts/Flaticon-v3.eot);
+    src: url(../fonts/Flaticon-v3.eot?#iefix)format("embedded-opentype"), url(../fonts/Flaticon-v3.woff2)format("woff2"), url(../fonts/Flaticon-v3.woff)format("woff"), url(../fonts/Flaticon-v3.ttf)format("truetype"), url(../fonts/Flaticon-v3.svg#Flaticon-v3)format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon-v3;
+        src: url(../fonts/Flaticon-v3.svg#Flaticon-v3)format("svg")
+    }
+}
+
+[class^=flaticonv3-]:before,
+[class*=" flaticonv3-"]:before,
+[class^=flaticonv3-]:after,
+[class*=" flaticonv3-"]:after {
+    font-family: Flaticon-v3;
+    font-size: inherit;
+    font-style: normal;
+    font-weight: 400
+}
+
+.flaticonv3-home:before {
+    content: "\f100"
+}
+
+.flaticonv3-umbrella:before {
+    content: "\f101"
+}
+
+.flaticonv3-menu:before {
+    content: "\f102"
+}
+
+.flaticonv3-portfolio:before {
+    content: "\f103"
+}
+
+.flaticonv3-newspaper:before {
+    content: "\f104"
+}
+
+.flaticonv3-letter:before {
+    content: "\f105"
+}
+
+.flaticonv3-sheet:before {
+    content: "\f106"
+}
+
+.flaticonv3-icon-56763:before {
+    content: "\f107"
+}
+
+.flaticonv3-icon-25283:before {
+    content: "\f108"
+}
+
+.flaticonv3-shield:before {
+    content: "\f109"
+}
+
+.flaticonv3-get-money:before {
+    content: "\f10a"
+}
+
+.flaticonv3-credit-card:before {
+    content: "\f10b"
+}
+
+.flaticonv3-value:before {
+    content: "\f10c"
+}
+
+.flaticonv3-start-button:before {
+    content: "\f10d"
+}
+
+.flaticonv3-target:before {
+    content: "\f10e"
+}
+
+.flaticonv3-group:before {
+    content: "\f10f"
+}
+
+.flaticonv3-refresh:before {
+    content: "\f110"
+}
+
+.flaticonv3-tick:before {
+    content: "\f111"
+}
+
+.flaticonv3-home-2:before {
+    content: "\f112"
+}
+
+.flaticonv3-car:before {
+    content: "\f113"
+}
+
+.flaticonv3-walk:before {
+    content: "\f114"
+}
+
+.flaticonv3-statistics:before {
+    content: "\f115"
+}
+
+.flaticonv3-icon-user:before {
+    content: "\f116"
+}
+
+.flaticonv3-telephone-call:before {
+    content: "\f117"
+}
+
+.flaticonv3-envelope:before {
+    content: "\f118"
+}
+
+.flaticonv3-square-box:before {
+    content: "\f119"
+}
+
+.flaticonv3-telephone:before {
+    content: "\f11a"
+}
+
+.flaticonv3-garage:before {
+    content: "\f11b"
+}
+
+.flaticonv3-insurance:before {
+    content: "\f11c"
+}
+
+.flaticonv3-insurance-1:before {
+    content: "\f11d"
+}
+
+.flaticonv3-lifesaver:before {
+    content: "\f11e"
+}
+
+.flaticonv3-umbrella-1:before {
+    content: "\f11f"
+}
+
+.flaticonv3-diamond-ring:before {
+    content: "\f120"
+}
+
+.flaticonv3-water-1:before {
+    content: "\f121"
+}
+
+.flaticonv3-analytics:before {
+    content: "\f122"
+}
+
+.flaticonv3-analytics-1:before {
+    content: "\f123"
+}
+
+.flaticonv3-company:before {
+    content: "\f124"
+}
+
+.flaticonv3-customer:before {
+    content: "\f125"
+}
+
+.flaticonv3-presentation:before {
+    content: "\f126"
+}
+
+.flaticonv3-quality:before {
+    content: "\f127"
+}
+
+.flaticonv3-settings:before {
+    content: "\f128"
+}
+
+.flaticonv3-maps-and-flags:before {
+    content: "\f129"
+}
+
+.flaticonv3-phone:before {
+    content: "\f12a"
+}
+
+.flaticonv3-plus:before {
+    content: "\f12b"
+}
+
+.flaticonv3-external-link-symbol:before {
+    content: "\f12c"
+}
+
+.flaticonv3-login:before {
+    content: "\f12d"
+}
+
+.flaticonv3-claim:before {
+    content: "\f12e"
+}
+
+.flaticonv3-tracking:before {
+    content: "\f12f"
+}
+
+.flaticonv3-pen-tool:before {
+    content: "\f130"
+}
+
+.flaticonv3-icon-684872:before {
+    content: "\f131"
+}
+
+.flaticonv3-save-money:before {
+    content: "\f132"
+}
+
+.flaticonv3-dot:before {
+    content: "\f133"
+}

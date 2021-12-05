@@ -1,0 +1,167 @@
+@font-face {
+    font-family: flaticon-v6;
+    src: url(../fonts/Flaticon-v6.eot);
+    src: url(../fonts/Flaticon-v6.eot?#iefix)format("embedded-opentype"), url(../fonts/Flaticon-v6.woff)format("woff"), url(../fonts/Flaticon-v6.ttf)format("truetype"), url(../fonts/Flaticon-v6.svg#Flaticon-v6)format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: flaticon-v6;
+        src: url(../fonts/Flaticon-v6.svg#Flaticon-v6)format("svg")
+    }
+}
+
+[class^=flaticonv6-]:before,
+[class*=" flaticonv6-"]:before,
+[class^=flaticonv6-]:after,
+[class*=" flaticonv6-"]:after {
+    font-family: Flaticon-v6;
+    font-size: inherit;
+    font-style: normal
+}
+
+.flaticonv6-report:before {
+    content: "\f100"
+}
+
+.flaticonv6-megaphone:before {
+    content: "\f101"
+}
+
+.flaticonv6-phone-call:before {
+    content: "\f102"
+}
+
+.flaticonv6-coin-1:before {
+    content: "\f103"
+}
+
+.flaticonv6-chat:before {
+    content: "\f104"
+}
+
+.flaticonv6-speech-bubble:before {
+    content: "\f105"
+}
+
+.flaticonv6-photographer:before {
+    content: "\f106"
+}
+
+.flaticonv6-reading-book:before {
+    content: "\f107"
+}
+
+.flaticonv6-caduceus:before {
+    content: "\f108"
+}
+
+.flaticonv6-airplane:before {
+    content: "\f109"
+}
+
+.flaticonv6-bar-chart:before {
+    content: "\f10a"
+}
+
+.flaticonv6-graphics:before {
+    content: "\f10b"
+}
+
+.flaticonv6-handshake:before {
+    content: "\f10c"
+}
+
+.flaticonv6-3d-design:before {
+    content: "\f10d"
+}
+
+.flaticonv6-right-arrow:before {
+    content: "\f10e"
+}
+
+.flaticonv6-vector:before {
+    content: "\f10f"
+}
+
+.flaticonv6-search:before {
+    content: "\f110"
+}
+
+.flaticonv6-select:before {
+    content: "\f111"
+}
+
+.flaticonv6-manufacture:before {
+    content: "\f112"
+}
+
+.flaticonv6-link:before {
+    content: "\f113"
+}
+
+.flaticonv6-target-2:before {
+    content: "\f114"
+}
+
+.flaticonv6-file:before {
+    content: "\f115"
+}
+
+.flaticonv6-right-arrow-1:before {
+    content: "\f116"
+}
+
+.flaticonv6-web:before {
+    content: "\f117"
+}
+
+.flaticonv6-files:before {
+    content: "\f118"
+}
+
+.flaticonv6-pen:before {
+    content: "\f119"
+}
+
+.flaticonv6-brain:before {
+    content: "\f11a"
+}
+
+.flaticonv6-web-1:before {
+    content: "\f11b"
+}
+
+.flaticonv6-phone-call-1:before {
+    content: "\f11c"
+}
+
+.flaticonv6-phone-call-2:before {
+    content: "\f11d"
+}
+
+.flaticonv6-flag:before {
+    content: "\f11e"
+}
+
+.flaticonv6-focus:before {
+    content: "\f11f"
+}
+
+.flaticonv6-philosophy:before {
+    content: "\f120"
+}
+
+.flaticonv6-home:before {
+    content: "\f121"
+}
+
+.flaticonv6-telephone-1:before {
+    content: "\f122"
+}
+
+.flaticonv6-worldwide:before {
+    content: "\f123"
+}

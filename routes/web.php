@@ -17,6 +17,19 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/lcdoc', function () {
-    return view('lcdoc');
+Route::get('/about', function () {
+    return view('about');
 });
+
+Route::get('/blog-page', function () {
+    return view('blogPage');
+});
+
+Route::get('/credit-insurance', function () {
+    return view('creditInsurance');
+});
+
+Route::get('/lc-docs', function () {
+    return view('lcDoc');
+});
+
