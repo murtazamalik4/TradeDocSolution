@@ -871,7 +871,7 @@
                                             </div>
                                             <ul id="menu-main-menu" class="ct-main-menu sub-hover children-plus clearfix">
                                                 <li id="menu-item-3911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3911">
-                                                    <a href="/welcome" class="show-demos">
+                                                    <a href="/" class="show-demos">
                                                         <span>Home</span>
                                                     </a>
                                                 </li>
