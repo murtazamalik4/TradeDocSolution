@@ -876,9 +876,10 @@
                                                     </a>
                                                 </li>
 
-                                                <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/lcDoc"><span>LC</span></a>
+                                                <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/lc-docs"><span>LC</span></a>
                                                     
                                                 </li>
+
                                                 <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="/creditInsurance"><span>Trade Credit Insurance</a>
                                                    
                                                 </li>
