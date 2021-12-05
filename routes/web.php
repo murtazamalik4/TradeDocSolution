@@ -30,6 +30,6 @@ Route::get('/credit-insurance', function () {
 });
 
 Route::get('/lc-docs', function () {
-    return view('lcDoc');
+    return view('lcdoc');
 });
 
