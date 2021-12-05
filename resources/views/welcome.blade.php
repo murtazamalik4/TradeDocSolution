@@ -1148,69 +1148,7 @@
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="carousel-item slick-slide">
-                                                                                                <div class="grid-item-inner wow fadeInUp active-featured">
-                                                                                                    <div class="grid-item-over">
-                                                                                                        <div class="item--featured"> <img class="" src="/wp-content/uploads/2019/11/theme-01-541x600.jpg" width="541" height="600" alt="theme-01" title="theme-01"
-                                                                                                            /></div>
-                                                                                                        <div class="item--holder">
-                                                                                                            <div class="item--holder-inner">
-                                                                                                                <div class="item--icon"><i class="text-gradient flaticon-chart-1"></i></div>
-                                                                                                                <h3 class="item--title">Chart management</h3>
-                                                                                                                <div class="item--gap"></div>
-                                                                                                                <div class="item--content"> Graphic design is the process of visual and problem-solving using one or more of typography, photography and illustration.</div>
-                                                                                                                <div class="item--icon-abs"><i class="text-gradient flaticon-chart-1"></i></div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                        <div class="item--meta">
-                                                                                                            <h3 class="item--title"><a href="/service/chart-management/">Chart management</a></h3>
-                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/service/chart-management/">+</a></div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="carousel-item slick-slide">
-                                                                                                <div class="grid-item-inner wow fadeInUp active-featured">
-                                                                                                    <div class="grid-item-over">
-                                                                                                        <div class="item--featured"> <img class="" src="/wp-content/uploads/2019/11/theme-12-541x600.jpg" width="541" height="600" alt="theme-12" title="theme-12"
-                                                                                                            /></div>
-                                                                                                        <div class="item--holder">
-                                                                                                            <div class="item--holder-inner">
-                                                                                                                <div class="item--icon"><i class="text-gradient flaticon-eye"></i></div>
-                                                                                                                <h3 class="item--title">SEO Optimization</h3>
-                                                                                                                <div class="item--gap"></div>
-                                                                                                                <div class="item--content"> A blueprint for accomplishing your objectives, from thought leadership to capacity building, photography and illustration.</div>
-                                                                                                                <div class="item--icon-abs"><i class="text-gradient flaticon-eye"></i></div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                        <div class="item--meta">
-                                                                                                            <h3 class="item--title"><a href="/service/seo-optimization/">SEO Optimization</a></h3>
-                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/service/seo-optimization/">+</a></div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="carousel-item slick-slide">
-                                                                                                <div class="grid-item-inner wow fadeInUp active-featured">
-                                                                                                    <div class="grid-item-over">
-                                                                                                        <div class="item--featured"> <img class="" src="/wp-content/uploads/2019/11/theme-09-541x600.jpg" width="541" height="600" alt="theme-09" title="theme-09"
-                                                                                                            /></div>
-                                                                                                        <div class="item--holder">
-                                                                                                            <div class="item--holder-inner">
-                                                                                                                <div class="item--icon"><i class="text-gradient flaticon-document"></i></div>
-                                                                                                                <h3 class="item--title">Market Research</h3>
-                                                                                                                <div class="item--gap"></div>
-                                                                                                                <div class="item--content"> Photography is the core of everything we do, photography equipment, camera, photography and reviews, photography articles.</div>
-                                                                                                                <div class="item--icon-abs"><i class="text-gradient flaticon-document"></i></div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                        <div class="item--meta">
-                                                                                                            <h3 class="item--title"><a href="/service/market-research/">Market Research</a></h3>
-                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/service/market-research/">+</a></div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
+                                                                                          
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
