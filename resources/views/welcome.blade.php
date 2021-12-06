@@ -964,14 +964,6 @@
                                                                                                                 data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1300;sp:1200;sR:1300;"
                                                                                                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6500;" style="z-index:10;font-family:'Roboto';">International Trade Finance documentations made easy
                                                                                                             </rs-layer>
-                                                                                                            <!--  -->
-                                                                                                            <rs-layer id="slider-4-slide-14-layer-9" data-type="text" data-xy="x:c;xo:-125px,-125px,-125px,-110px;y:b;yo:5px;" data-text="w:normal;s:20,16,12,7;l:25,20,15,9;"
-                                                                                                                data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:-50;" data-frame_1="st:1550;sp:1000;sR:1550;" data-frame_999="o:0;st:w;sR:6450;" style="z-index:11;font-family:'Roboto';"><a class="ct-video-button white border-effect" href="https://www.youtube.com/watch?v=SF4aHwxHtZ0"><i class="fac fac-play"></i></a> </rs-layer>
-                                                                                                            <!--  --><a id="slider-4-slide-14-layer-10" class="rs-layer" href="/services-v-1/" target="_self" rel="nofollow" data-type="text"
-                                                                                                                data-xy="x:c;xo:45px;y:b;" data-text="w:normal;s:18,16,16,16;l:65,65,49,30;" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:50;" data-frame_1="st:1550;sp:1000;sR:1550;"
-                                                                                                                data-frame_999="o:0;st:w;sR:6450;" style="z-index:12;font-family:'Roboto';"><span class="btn"><i class="flaticon-gear space-right"></i>View services</span> </a>
-                                                                                                            <!--
- -->
                                                                                                         </rs-group>
                                                                                                         <!--  -->
                                                                                                         <rs-layer id="slider-4-slide-14-layer-5" data-type="object" data-rsp_ch="on" data-xy="xo:50px,41px,31px,19px;yo:319px,265px,201px,124px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
@@ -2123,7 +2115,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-map-marker-alt"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Our head office address:</h3>
-                                                                    <div class="item--description">3556 Hartford Way Vlg, Mount Pleasant, SC, 29466, Australia.</div>
+                                                                    <div class="item--description">S-6, Shan-e-Fiza Apartment, Koh-e-Fiza, Bhopal (M.P.)</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2134,7 +2126,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Call for help:</h3>
-                                                                    <div class="item--description">(734) 697-2907<br/> (843) 971-1906</div>
+                                                                    <div class="item--description"><b>IN: </b>00917024883131<br/><b>Dubai (UAE): </b> 00971 524694830</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2145,7 +2137,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-envelope"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Mail us for information</h3>
-                                                                    <div class="item--description">noreply@envato.com<br/> noreply@consultio.com</div>
+                                                                    <div class="item--description">info@tradedocsolution.com<br/></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2505,7 +2497,8 @@
                                                                             <div>info@tradedocsolution.com</div>
                                                                         </li>
                                                                         <li>
-                                                                        <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="ct-contact-content"> India - 00917024883131 | Dubai UAE - 00971 524694830 (WhatsApp available on this number)</span></li>
+                                                                        <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="ct-contact-content"> India - 00917024883131<br/>
+                                                                        Dubai UAE - 00971 524694830</span></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
