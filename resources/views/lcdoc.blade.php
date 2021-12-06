@@ -839,9 +839,9 @@
                 <div id="ct-header-middle">
                     <div class="container">
                         <div class="row">
-                            <div class="ct-header-branding"> <a class="logo-dark" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/logo-web5.png" alt="Consultio"/></a><a class="logo-light"
-                                    href="/" title="Fast Track" rel="home"><img src="/wp-content/uploads/logo-web5.png" alt="Fast Track"/></a><a class="logo-mobile"
-                                    href="/" title="Fast Track" rel="home"><img src="/wp-content/uploads/logo-web5.png" alt="Fast Track"/></a></div>
+                            <div class="ct-header-branding"> <a class="logo-dark" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/logo-web5.png" alt="Consultio"/></a>
+                                   
+                                </div>
                             <div class="ct-header-holder">
                                 <div class="ct-header-info-item ct-header-call">
                                     <div class="h-item-icon"> <i class="flaticon-telephone text-gradient"></i></div>
@@ -857,14 +857,14 @@
                 <div id="ct-header" class="ct-header-main">
                     <div class="container">
                         <div class="row">
-                            <div class="ct-header-branding"> <a class="logo-web5" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/2020/02/logo-web.png" alt="Consultio"/></a><a class="logo-light"
-                                    href="/" title="Consultio" rel="home"><img src="/wp-content/themes/csuti/assets/images/logo-light.png" alt="Consultio"/></a><a class="logo-mobile"
-                                    href="/" title="Consultio" rel="home"><img src="/wp-content/themes/csuti/assets/images/logo-web5.png" alt="Consultio"/></a></div>
+                            <div class="ct-header-branding"> <a class="logo-web5" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/2020/02/logo-web.png" alt="Consultio"/></a>
+                                   
+                                </div>
                             <div class="ct-header-navigation">
                                 <div class="ct-header-navigation-bg">
                                     <nav class="ct-main-navigation">
                                         <div class="ct-main-navigation-inner">
-                                            <div class="ct-logo-mobile"> <a href="" title="" rel="home"><img src="/wp-content/themes/csuti/assets/images/logo-web5.png" alt=""/></a></div>
+                                            
                                             <div class="header-mobile-search">
                                                 <form role="search" method="get" action="/"> <input type="text" placeholder="Search..." name="s" class="search-field" /> <button type="submit" class="search-submit"><i class="fac fac-search"></i></button></form>
                                             </div>
@@ -914,7 +914,9 @@
                             <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
                         </div>
                     </div>
-                    <div id="ct-menu-mobile"> <span class="btn-nav-cart"><i class="fac fac-shopping-basket"></i></span> <span class="btn-nav-mobile open-menu"> <span></span> </span>
+                    <div id="ct-menu-mobile"> 
+                        <span class="btn-nav-mobile open-menu"> <span></span> 
+                        </span>
                     </div>
                 </div>
             </div>

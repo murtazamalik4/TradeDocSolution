@@ -914,7 +914,7 @@
                             <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
                         </div>
                     </div>
-                    <div id="ct-menu-mobile"> <span class="btn-nav-cart"><i class="fac fac-shopping-basket"></i></span> <span class="btn-nav-mobile open-menu"> <span></span> </span>
+                    <div id="ct-menu-mobile"><span class="btn-nav-mobile open-menu"> <span></span> </span>
                     </div>
                 </div>
             </div>
