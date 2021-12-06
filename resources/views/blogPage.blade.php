@@ -1054,7 +1054,7 @@
  "></div>
                                                                         <li style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;"> 
                                                                             <div style="margin-right: 5px; margin-top: 2px;"><svg t="1636976179752" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2466" width="20" height="20"><path d="M512 576a32 32 0 0 1-17.184-4.992L128 337.568v430.656A64 64 0 0 0 192.064 832h639.872A64 64 0 0 0 896 768.224V337.888l-366.816 233.12A32.096 32.096 0 0 1 512 576" p-id="2467" fill="#ffffff"></path><path d="M831.936 192H192.064A64 64 0 0 0 128 255.808v4.896l384 245.376 384-244.032v-6.24A64 64 0 0 0 831.936 192" p-id="2468" fill="#ffffff"></path></svg></div>
-                                                                            <div>info@lcdocs.com</div>
+                                                                            <div>info@tradedocsolution.com</div>
                                                                         </li>
                                                                         <li>
                                                                         <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="ct-contact-content"> 00971 524694830 </span></li>
@@ -1147,7 +1147,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-f8849b1 ct-copyright elementor-widget elementor-widget-text-editor" data-id="f8849b1" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.lcdocs.com" target="_blank" rel="nofollow noopener">LCDocs</a></div>
+                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.lcdocs.com" target="_blank" rel="nofollow noopener">Tradedocolution</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
