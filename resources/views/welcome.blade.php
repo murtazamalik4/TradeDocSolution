@@ -904,13 +904,13 @@
 
                                                
                                             </div>
-                                            <div class="ct-header-button-mobile" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now</a></div>
+                                            <div class="ct-header-button-mobile" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/dashboard.tradedocsolutions/sign-up" target="_self">Register Now</a></div>
                                         </div>
                                     </nav>
                                    
                                 </div>
                             </div>
-                            <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
+                            <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/dashboard.tradedocsolutions/sign-up " target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
                         </div>
                     </div>
                     <div id="ct-menu-mobile"> <span class="btn-nav-mobile open-menu"> <span></span> </span>

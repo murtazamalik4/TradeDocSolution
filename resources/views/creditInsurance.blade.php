@@ -904,13 +904,13 @@
                                                     <div class="h-item-icon"> <i class="flaticon-map text-gradient"></i></div>
                                                     <div class="h-item-meta"> <label>380 St Kilda Road,</label> <span>Melbourne, Australia</span></div> <a href="https://www.google.com/maps/place/380+St+Kilda+Rd,+Melbourne+VIC+3000,+Australia/" target="_blank" class="h-item-link"></a></div>
                                             </div>
-                                            <div class="ct-header-button-mobile" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now</a></div>
+                                            <div class="ct-header-button-mobile" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/dashboard.tradedocsolutions/sign-up" target="_self">Register Now</a></div>
                                         </div>
                                     </nav>
                                    
                                 </div>
                             </div>
-                            <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
+                            <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/dashboard.tradedocsolutions/sign-up" target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
                         </div>
                     </div>
                     <div id="ct-menu-mobile"> 
