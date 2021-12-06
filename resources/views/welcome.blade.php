@@ -900,10 +900,9 @@
                                                     <div class="h-item-meta"> <label>Call Us: (00971) 5246-94830</label> <span>(Mon - Thurs)</span></div> <a href="tel:+123456789" target="_self" class="h-item-link"></a></div>
                                                 <div class="ct-header-info-item ct-header-mail">
                                                     <div class="h-item-icon"> <i class="flaticonv3-envelope text-gradient"></i></div>
-                                                    <div class="h-item-meta"> <label>Mail us for help:</label> <span>info@lcdocsolution.com</span></div> <a href="mailto:info@consultio.com" target="_self" class="h-item-link"></a></div>
-                                                <div class="ct-header-info-item ct-header-address">
-                                                    <div class="h-item-icon"> <i class="flaticon-map text-gradient"></i></div>
-                                                    <div class="h-item-meta"> <label>380 St Kilda Road,</label> <span>Melbourne, Australia</span></div> <a href="https://www.google.com/maps/place/380+St+Kilda+Rd,+Melbourne+VIC+3000,+Australia/" target="_blank" class="h-item-link"></a></div>
+                                                    <div class="h-item-meta"> <label>Mail us for help:</label> <span>info@tradedocsolution.com</span></div> <a href="mailto:info@consultio.com" target="_self" class="h-item-link"></a></div>
+
+                                               
                                             </div>
                                             <div class="ct-header-button-mobile" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now</a></div>
                                         </div>
