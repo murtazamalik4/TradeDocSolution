@@ -1123,7 +1123,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-map-marker-alt"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Our head office address:</h3>
-                                                                    <div class="item--description">3556 Hartford Way Vlg, Mount Pleasant, SC, 29466, Australia.</div>
+                                                                    <div class="item--description">S-6, Shan-e-Fiza Apartment, Koh-e-Fiza, Bhopal (M.P.)</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1134,7 +1134,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Call for help:</h3>
-                                                                    <div class="item--description">(734) 697-2907<br/> (843) 971-1906</div>
+                                                                    <div class="item--description"><b>IN: </b>00917024883131<br/><b>Dubai (UAE): </b> 00971 524694830</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1145,7 +1145,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-envelope"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Mail us for information</h3>
-                                                                    <div class="item--description">noreply@envato.com<br/> noreply@consultio.com</div>
+                                                                    <div class="item--description">info@tradedocsolution.com</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1285,7 +1285,7 @@
                                                                     <div id="ct_navigation_menu-7983775" class="ct-navigation-menu1 tow-col-light">
                                                                         <div class="menu-menu-footer-links-container">
                                                                             <ul id="menu-menu-footer-links" class="menu">
-                                                                                <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-64"><a href="/index.html" aria-current="page">Home</a></li>
+                                                                                <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-64"><a href="/" aria-current="page">Home</a></li>
                                                                                 <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="/team/">Team</a></li>
                                                                                
                                                                               
@@ -1351,7 +1351,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-f8849b1 ct-copyright elementor-widget elementor-widget-text-editor" data-id="f8849b1" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.lcdocs.com" target="_blank" rel="nofollow noopener">Tradedocolution</a></div>
+                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2021</span> © All rights reserved by <a href="https://www.tradedocolution.com" target="_blank" rel="nofollow noopener">Tradedocolution</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>

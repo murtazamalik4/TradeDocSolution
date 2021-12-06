@@ -2136,7 +2136,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-envelope"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Mail us for information</h3>
-                                                                    <div class="item--description">info@tradedocsolution.com<br/></div>
+                                                                    <div class="item--description">info@tradedocsolution.com</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2587,7 +2587,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-f8849b1 ct-copyright elementor-widget elementor-widget-text-editor" data-id="f8849b1" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.tradedocsolution.com" target="_blank" rel="nofollow noopener">Tradedocsolution</a></div>
+                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2021</span> © All rights reserved by <a href="https://www.tradedocsolution.com" target="_blank" rel="nofollow noopener">Tradedocsolution</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>

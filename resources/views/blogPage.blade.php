@@ -1147,7 +1147,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-f8849b1 ct-copyright elementor-widget elementor-widget-text-editor" data-id="f8849b1" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.lcdocs.com" target="_blank" rel="nofollow noopener">Tradedocolution</a></div>
+                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2021</span> © All rights reserved by <a href="https://www.tradedocolution.com" target="_blank" rel="nofollow noopener">Tradedocolution</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
