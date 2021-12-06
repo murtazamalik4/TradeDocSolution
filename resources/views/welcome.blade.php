@@ -914,7 +914,7 @@
                             <div class="ct-header-button" style="background:linear-gradient(#3ac4f0 0%,#00a9df 100%) !important;"> <a class="btn btn-default" href="/contact/" target="_self">Register Now<i class="ct-arrow-right arrow-white"></i></a></div>
                         </div>
                     </div>
-                    <div id="ct-menu-mobile"> <span class="btn-nav-cart"><i class="fac fac-shopping-basket"></i></span> <span class="btn-nav-mobile open-menu"> <span></span> </span>
+                    <div id="ct-menu-mobile"> <span class="btn-nav-mobile open-menu"> <span></span> </span>
                     </div>
                 </div>
             </div>
@@ -2417,7 +2417,7 @@
         </div>
     </section>
 
-    <section class="elementor-section elementor-top-section elementor-element elementor-element-505846aa elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="505846aa"
+    <!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-505846aa elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="505846aa"
         data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="display:none;">
         <div class="elementor-container elementor-column-gap-extended ">
             <div class="elementor-row">
@@ -2455,7 +2455,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     </div>
     </div>
     </div>
@@ -2498,13 +2498,14 @@
                                                                 <div class="elementor-widget-container">
                                                                     <ul id="ct_contact_info-9850e24" class="ct-contact-info ct-contact-info1 style1 ">
                                                                         <div class="ct-inline-css" data-css="
- "></div>
+ ">
+</div>
                                                                         <li style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;"> 
                                                                             <div style="margin-right: 5px; margin-top: 2px;"><svg t="1636976179752" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2466" width="20" height="20"><path d="M512 576a32 32 0 0 1-17.184-4.992L128 337.568v430.656A64 64 0 0 0 192.064 832h639.872A64 64 0 0 0 896 768.224V337.888l-366.816 233.12A32.096 32.096 0 0 1 512 576" p-id="2467" fill="#ffffff"></path><path d="M831.936 192H192.064A64 64 0 0 0 128 255.808v4.896l384 245.376 384-244.032v-6.24A64 64 0 0 0 831.936 192" p-id="2468" fill="#ffffff"></path></svg></div>
-                                                                            <div>info@lcdocs.com</div>
+                                                                            <div>info@tradedocsolution.com</div>
                                                                         </li>
                                                                         <li>
-                                                                        <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="ct-contact-content"> 00971 524694830 </span></li>
+                                                                        <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="ct-contact-content"> India - 00917024883131 | Dubai UAE - 00971 524694830 (WhatsApp available on this number)</span></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -2594,7 +2595,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-f8849b1 ct-copyright elementor-widget elementor-widget-text-editor" data-id="f8849b1" data-element_type="widget" data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.lcdocs.com" target="_blank" rel="nofollow noopener">LCDocs</a></div>
+                                                                    <div class="elementor-text-editor elementor-clearfix"> <span class="ct-year">2019</span> © All rights reserved by <a href="https://www.tradedocsolution.com" target="_blank" rel="nofollow noopener">Tradedocsolution</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
