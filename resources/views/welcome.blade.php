@@ -906,9 +906,9 @@
                                                                                                             <rs-layer id="slider-4-slide-15-layer-3" data-type="text" data-xy="yo:371px,371px,290px,206px;" data-text="w:normal;s:24,24,18,16;l:38,38,32,30;"
                                                                                                                 data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:50;" data-frame_1="st:1300;sp:1000;" data-frame_999="o:0;st:w;sR:6500;" style="z-index:10;font-family:'Roboto'; margin-top: -70px;">We understand client's requirement and provide quick solutions.
                                                                                                             </rs-layer>
-                                                                                                            <!--  --><a id="slider-4-slide-15-layer-10" class="rs-layer" href="/services-v-1/" target="_self" rel="nofollow" data-type="text"
+                                                                                                            <!--  --><a id="slider-4-slide-15-layer-10" class="rs-layer" href="/services" target="_self" rel="nofollow" data-type="text"
                                                                                                                 data-xy="y:b;" data-text="w:normal;s:18,16,16,16;l:65,65,49,30;" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:50;" data-frame_1="st:1550;sp:1000;"
-                                                                                                                data-frame_999="o:0;st:w;sR:6450;" style="z-index:12;font-family:'Roboto';"><span class="btn" a href="/services"><i class="flaticon-gear space-right"></i>View services</span> </a>
+                                                                                                                data-frame_999="o:0;st:w;sR:6450;" style="z-index:12;font-family:'Roboto';"><span class="btn"><i class="flaticon-gear space-right"></i>View services</span> </a>
                                                                                                             <!--
  -->
                                                                                                         </rs-group>
@@ -935,7 +935,7 @@
                                                                                                             <rs-layer id="slider-4-slide-17-layer-3" data-type="text" data-xy="x:r;yo:371px,371px,290px,206px;" data-text="w:normal;s:24,24,18,16;l:38,38,32,30;"
                                                                                                                 data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:-50;" data-frame_1="st:1300;sp:1000;" data-frame_999="o:0;st:w;sR:6500;" style="z-index:10;font-family:'Roboto'; margin-top: -70px; margin-right: 25px; text-align: right;">We make sure the transaction is concluded successfully & <br/>  well in time
                                                                                                             </rs-layer>
-                                                                                                            <!--  --><a id="slider-4-slide-17-layer-10" class="rs-layer" href="/services-v-1/" target="_self" rel="nofollow" data-type="text"
+                                                                                                            <!--  --><a id="slider-4-slide-17-layer-10" class="rs-layer" href="/services" target="_self" rel="nofollow" data-type="text"
                                                                                                                 data-xy="x:r;y:b;" data-text="w:normal;s:18,16,16,16;l:65,65,49,30;" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:-50;" data-frame_1="st:1550;sp:1000;"
                                                                                                                 data-frame_999="o:0;st:w;sR:6450;" style="z-index:12;font-family:'Roboto';"><span class="btn"><i class="flaticon-gear space-right"></i>View services</span> </a>
                                                                                                             <!--
@@ -2622,7 +2622,7 @@
                         <ul id="menu-menu-popup" class="menu">
                             <li id="menu-item-5221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-5221"><a href="/" aria-current="page"><span>Home</span></a></li>
                             <li id="menu-item-5222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5222"><a href="/about/"><span>About Us</span></a></li>
-                            <li id="menu-item-5220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5220"><a href="/services-v-1/"><span>Services</span></a></li>
+                            <li id="menu-item-5220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5220"><a href="/services"><span>Services</span></a></li>
                             <li id="menu-item-5225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="/portfolio-grid-3-columns/"><span>Portfolio</span></a></li>
                             <li id="menu-item-5224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5224"><a href="/blog-standard/"><span>News</span></a></li>
                             <li id="menu-item-5223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5223"><a href="/contact/"><span>Contact</span></a></li>
