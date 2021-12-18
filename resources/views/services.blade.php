@@ -875,41 +875,31 @@
 
                                                 
                                                     <section class="elementor-section elementor-top-section elementor-element elementor-element-4881fb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="4881fb50" data-element_type="section" style="margin-top: 25px;"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-60f5cf44" data-id="60f5cf44" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5236cc5c elementor-widget elementor-widget-ct_title" data-id="5236cc5c" data-element_type="widget" data-widget_type="ct_title.default"><div class="elementor-widget-container"><div class="ct-title1 style2"><h3><i></i></h3></div></div></div><div class="elementor-element elementor-element-5bf474db elementor-widget elementor-widget-text-editor" data-id="5bf474db" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">- View Services Contents for Letter of Credit.<br/>
-- Quick review LC with agreed purchase contract. 
-- Issue Amendment advice (if any amendment is apparently visible) 
-- Participate in Discussion of Amendment advice with the LC Opener or Applicant 
-- Fast track documentations to enable the client process shipment / other supporting documents. 
-- All type of consultancy available to understand the Letter of credit process, documentations, negotiation with the bank. 
-- Dealing with the discrepancy(s) if any with the bank and the LC applicant. 
-- Final Payment confirmation from the bank 
+- Quick review LC with agreed purchase contract. <br/>
+- Issue Amendment advice (if any amendment is apparently visible) <br/>
+- Participate in Discussion of Amendment advice with the LC Opener or Applicant <br/>
+- Fast track documentations to enable the client process shipment / other supporting documents. <br/>
+- All type of consultancy available to understand the Letter of credit process, documentations, negotiation with the bank. <br/>
+- Dealing with the discrepancy(s) if any with the bank and the LC applicant. <br/>
+- Final Payment confirmation from the bank <br/>
 
-- View Services Contents for Credit Insurance 
-- Case Study
-- Credit Aging report review
-- Advise to curtail the ECL i.e. Estimated Credit Loss
-- Review account statements of all those customer for whom the credit insurance are required. 
-- Providing Credit insurance understanding to entire team of Receivables. 
-- Prepare team to bring the quotation 
-- Review Quotation
-- Arrange policy to be issued from the credit insurance company 
-- Prepare receivables team to make the claim against any defaulter 
-- follow up claim settlement. 
+- View Services Contents for Credit Insurance <br/>
+- Case Study<br/>
+- Credit Aging report review<br/>
+- Advise to curtail the ECL i.e. Estimated Credit Loss<br/>
+- Review account statements of all those customer for whom the credit insurance are required.<br/> 
+- Providing Credit insurance understanding to entire team of Receivables. <br/>
+- Prepare team to bring the quotation <br/>
+- Review Quotation<br/>
+- Arrange policy to be issued from the credit insurance company <br/>
+- Prepare receivables team to make the claim against any defaulter <br/>
+- follow up claim settlement. <br/>
 - Review yearly performance of the Policy ​<br/><br/>
 
                                                     </div>
 
                                                     <div>
-                                                        Content without backward-compatible data.
-                                                        Their community. I wonder how they wou if their own child witnessed such a level of violence?<br/>
-
-                                                        “There is absolutely no justification for an attack like this in our communities and we must all work together to bring those responsible to justice and to stop this from happening to another child.”<br/>
-
-                                                        Earlier this month, the PSNI launched a hard-hitting advertisement campaign aimed at changing public attitudes to paramilitary attacks.<br/>
-
-                                                        A Kentucky woman who was accused last year.
-                                                        The intruders chased the girl in the house and threatened her when she hid from them, according to the PSNI Limavady Facebook page.<br/>
-
-                                                        “She came out petrified with her Piggy Bank, HER PIGGY BANK! hoping that the men would take it and leave her dad alone,” one outraged officer wrote.<br/>
+                                                       
                                                     </div>
                                                     </div>
                                                 </div>
