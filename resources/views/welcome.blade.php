@@ -908,7 +908,7 @@
                                                                                                             </rs-layer>
                                                                                                             <!--  --><a id="slider-4-slide-15-layer-10" class="rs-layer" href="/services-v-1/" target="_self" rel="nofollow" data-type="text"
                                                                                                                 data-xy="y:b;" data-text="w:normal;s:18,16,16,16;l:65,65,49,30;" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:50;" data-frame_1="st:1550;sp:1000;"
-                                                                                                                data-frame_999="o:0;st:w;sR:6450;" style="z-index:12;font-family:'Roboto';"><span class="btn"><i class="flaticon-gear space-right"></i>View services</span> </a>
+                                                                                                                data-frame_999="o:0;st:w;sR:6450;" style="z-index:12;font-family:'Roboto';"><span class="btn"><i class="flaticon-gear space-right" a href="/services"></i>View services</span> </a>
                                                                                                             <!--
  -->
                                                                                                         </rs-group>

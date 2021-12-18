@@ -33,3 +33,7 @@ Route::get('/lc-docs', function () {
     return view('lcdoc');
 });
 
+Route::get('/services', function () {
+    return view('services');
+});
+

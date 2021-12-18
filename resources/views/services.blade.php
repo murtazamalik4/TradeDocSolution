@@ -834,9 +834,8 @@
             </div>
         </div>
       
-
         @include('layout.header')
-
+        
         <div id="content" class="site-content">
             <div class="content-inner">
                 <div class="container content-container">
@@ -861,7 +860,7 @@
                                                                                         <!-- START Finance REVOLUTION SLIDER 6.5.8 -->
                                                                                         <p class="rs-p-wp-fix"></p>
                                                                                        
-                                                                                        <div id="pagetitle" class="page-title bg-image "><div class="container"><div class="page-title-inner"><div class="page-title-holder"><h1 class="page-title">LC Documentation</h1></div><ul class="ct-breadcrumb"><li><a class="breadcrumb-entry" href="/">Home</a></li><li><a class="breadcrumb-entry" href="/service/">Services</a></li><li><span class="breadcrumb-entry">Business Planning</span></li></ul></div></div></div>
+                                                                                        <div id="pagetitle" class="page-title bg-image "><div class="container"><div class="page-title-inner"><div class="page-title-holder"><h1 class="page-title">Strategy for Norway’s Peion to Fund Global.</h1></div><ul class="ct-breadcrumb"><li><a class="breadcrumb-entry" href="/">Home</a></li><li><a class="breadcrumb-entry" href="/service/">Services</a></li><li><span class="breadcrumb-entry">Business Planning</span></li></ul></div></div></div>
 
                                                                                     </div>
                                                                                 </div>
@@ -875,121 +874,55 @@
 
 
                                                 
-                                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-4881fb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="4881fb50" data-element_type="section" style="margin-top: 25px;"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-60f5cf44" data-id="60f5cf44" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5236cc5c elementor-widget elementor-widget-ct_title" data-id="5236cc5c" data-element_type="widget" data-widget_type="ct_title.default"><div class="elementor-widget-container"><div class="ct-title1 style2"><h3> <span>What is LC Document? </span> <i></i></h3></div></div></div><div class="elementor-element elementor-element-5bf474db elementor-widget elementor-widget-text-editor" data-id="5bf474db" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix"> A Letter of Credit (LC) is a document that guarantees the buyer’s payment to the sellers. It is issued by a bank and ensures timely and full payment to the seller. If the buyer is unable to make such a payment, the bank covers the full or the remaining amount on behalf of the buyer.<br/>
-                                                    It is issued against a pledge of securities or cash. Banks typically collect a fee, i.e, a percentage of the size/amount of the letter of credit.
+                                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-4881fb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="4881fb50" data-element_type="section" style="margin-top: 25px;"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-60f5cf44" data-id="60f5cf44" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5236cc5c elementor-widget elementor-widget-ct_title" data-id="5236cc5c" data-element_type="widget" data-widget_type="ct_title.default"><div class="elementor-widget-container"><div class="ct-title1 style2"><h3><i></i></h3></div></div></div><div class="elementor-element elementor-element-5bf474db elementor-widget elementor-widget-text-editor" data-id="5bf474db" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">- View Services Contents for Letter of Credit.
+- Quick review LC with agreed purchase contract. 
+- Issue Amendment advice (if any amendment is apparently visible) 
+- Participate in Discussion of Amendment advice with the LC Opener or Applicant 
+- Fast track documentations to enable the client process shipment / other supporting documents. 
+- All type of consultancy available to understand the Letter of credit process, documentations, negotiation with the bank. 
+- Dealing with the discrepancy(s) if any with the bank and the LC applicant. 
+- Final Payment confirmation from the bank 
 
-                                                        </div>
+- View Services Contents for Credit Insurance 
+- Case Study
+- Credit Aging report review
+- Advise to curtail the ECL i.e. Estimated Credit Loss
+- Review account statements of all those customer for whom the credit insurance are required. 
+- Providing Credit insurance understanding to entire team of Receivables. 
+- Prepare team to bring the quotation 
+- Review Quotation
+- Arrange policy to be issued from the credit insurance company 
+- Prepare receivables team to make the claim against any defaulter 
+- follow up claim settlement. 
+- Review yearly performance of the Policy ​<br/><br/>
+
+                                                    </div>
+
+                                                    <div>
+                                                        Content without backward-compatible data.
+                                                        Their community. I wonder how they wou if their own child witnessed such a level of violence?<br/>
+
+                                                        “There is absolutely no justification for an attack like this in our communities and we must all work together to bring those responsible to justice and to stop this from happening to another child.”<br/>
+
+                                                        Earlier this month, the PSNI launched a hard-hitting advertisement campaign aimed at changing public attitudes to paramilitary attacks.<br/>
+
+                                                        A Kentucky woman who was accused last year.
+                                                        The intruders chased the girl in the house and threatened her when she hid from them, according to the PSNI Limavady Facebook page.<br/>
+
+                                                        “She came out petrified with her Piggy Bank, HER PIGGY BANK! hoping that the men would take it and leave her dad alone,” one outraged officer wrote.<br/>
+                                                    </div>
                                                     </div>
                                                 </div>
-                                                <div>
-                                                   <h5 style="margin-top: 15px;">
-                                                    Importance of Letters of Credit
-                                                   </h5>
-                                                   <p>
-                                                    Since the nature of international trade includes factors such as distance, different laws in each country and the lack of personal contact during international trade, letters of credit make a reliable payment mechanism. The ‘International Chamber of Commerce Uniform Customs and Practice for Documentary Credits’ oversees letters of credit used in international transactions.
-                                                   </p>
-                                                </div>
-
-                                                <div>
-                                                    <h5 style="margin-top: 15px;">
-                                                     Parties of Letter of Credit
-                                                    </h5>
-
-                                                    <div class="elementor-element elementor-element-118ec289 elementor-widget elementor-widget-ct_list" data-id="118ec289" data-element_type="widget" data-widget_type="ct_list.default" style="margin-bottom: 20px;">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ct-list style1 ">
-                                                                <div class="ct-list-item " data-wow-delay="ms">
-                                                                    <div class="ct-list-icon"><i class="fac fac-check-circle"></i>
-                                                                    </div>
-                                                                    <div class="ct-list-meta">
-                                                                        <div class="ct-list-desc">Applicant (importer) requests the bank to issue the LC.
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="ct-list-item " data-wow-delay="ms">
-                                                                    <div class="ct-list-icon">
-                                                                        <i class="fac fac-check-circle"></i>
-                                                                    </div>
-                                                                    <div class="ct-list-meta"><div class="ct-list-desc">Issuing bank (importer’s bank which issues the LC [also known as the Opening banker of LC]).
-                                                                    </div>
-                                                                </div>
-                                                                </div>
-
-                                                                <div class="ct-list-item " data-wow-delay="ms">
-                                                                    <div class="ct-list-icon"><i class="fac fac-check-circle"></i>
-                                                                    </div>
-                                                                    <div class="ct-list-meta">
-                                                                        <div class="ct-list-desc"> Beneficiary (exporter).</div>
-                                                                    </div>
-                                                                </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                </div>
-
-                                                <div>
-                                                    <h5 style="margin-top: 15px;">
-                                                        Types of a Letter of Credit
-                                                    </h5>
-
-                                                    <p>
-                                                        The letters of credit can be divided into the following categories:
-                                                    </p>
-                                                    <div>
-                                                    <h6>- Sight Credit</h6>
-                                                    <p>Under this LC, documents are payable at the sight/ upon presentation of the correct documentation. For example, a businessman can present a bill of exchange to a lender along with a sight letter of credit and take the necessary funds right away. A sight letter of credit is more immediate than other forms of letters of credit.
-                                                    </p>
-                                                    </div>
-
-                                                    <div>
-                                                        <h6>- Acceptance Credit/ Time Credit
-                                                        </h6>
-                                                        <p>The Bills of Exchange which are drawn and payable after a period, are called usance bills. Under acceptance credit, these usance bills are accepted upon presentation and eventually honored on their respective due dates.
-                                                        </p>
-                                                        <p>
-                                                            For example, a company purchases materials from a supplier and receives the goods on the same day. The bill will be delivered with the shipment of goods, but the company may have up to 30 days to pay it. This 30-day period marks the usance for the sale.
-
-                                                        </p>
-                                                    </div>
-
-                                                    <div>
-                                                        <h6>- Revocable and Irrevocable Credit</h6>
-                                                        <p>A revocable LC is a credit, the terms and conditions of which can be amended/ cancelled by the Issuing Bank. This cancellation can be done without prior notice to the beneficiaries. Now it doesn’t exist. An irrevocable credit is a credit, the terms and conditions of which can neither be amended nor cancelled. Hence, the opening bank is bound by the commitments given in the LC.
-                                                        </p>
-                                                    </div>
-
-                                                    <div>
-                                                        <h6>- Confirmed Credit</h6>
-                                                        <p>Only irrevocable LC can be confirmed. A confirmed LC is one when a banker other than the Issuing bank, adds its own confirmation to the credit. In case of confirmed LCs, the beneficiary’s bank would submit the documents to the confirming banker.
-                                                        </p>
-                                                    </div>
-
-                                                    <div>
-                                                        <h6>- Back-to-Back credit</h6>
-                                                        <p>In a back-to-back credit, the exporter (the beneficiary) requests his banker to issue an LC in favor of his supplier to procure raw materials, goods based on the export LC received by him. This type of LC is known as Back-to-Back credit.
-                                                        </p>
-                                                        <p>
-                                                            Example: An Indian exporter receives an export LC from his overseas client in the Netherlands. The Indian exporter approaches his banker with a request to issue an LC in favor of his local supplier of raw materials. The bank issues an LC backed by the export LC. 
-
-                                                        </p>
-                                                    </div>
-
-                                                    <div>
-                                                        <h6>- Transferable credit</h6>
-                                                        <p>While an LC is not a negotiable instrument, the Bills of Exchange drawn under it are negotiable. A Transferable Credit is one in which a beneficiary can transfer his rights to third parties. Such LC should clearly indicate that it is a ‘Transferable’ LC.
-                                                        </p>
-                                                    </div>
-
+                                                
 
                                                 
-                                                </div>
 
                                                         </div>
                                                     </div>
                                                 </div>
 
 
-<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-68320a76" data-id="68320a76" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-415a7443 elementor-widget elementor-widget-ct_navigation_menu" data-id="415a7443" data-element_type="widget" data-widget_type="ct_navigation_menu.default"><div class="elementor-widget-container"><div id="ct_navigation_menu-415a7443" class="ct-navigation-menu1 default"><div class="menu-menu-services-container"><ul id="menu-menu-services" class="menu"><li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1819"><a href="/service/seo-optimization/">Documentary Collection<i class="fac fac-angle-right"></i></a></li><li id="menu-item-1816" class="menu-item menu-item-type-post_type menu-item-object-service"><a href="/service/business-planning/" aria-current="page">Factoring & Forfaiting<i class="fac fac-angle-right"></i></a></li><li id="menu-item-1817" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1817"><a href="/service/program-management/">Credit Insurance<i class="fac fac-angle-right"></i></a></li>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-68320a76" data-id="68320a76" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-415a7443 elementor-widget elementor-widget-ct_navigation_menu" data-id="415a7443" data-element_type="widget" data-widget_type="ct_navigation_menu.default"><div class="elementor-widget-container"><div id="ct_navigation_menu-415a7443" class="ct-navigation-menu1 default"><div class="menu-menu-services-container"><ul id="menu-menu-services" class="menu"><li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1819"><a href="/service/seo-optimization/">Documentary Collection<i class="fac fac-angle-right"></i></a></li><li id="menu-item-1816" class="menu-item menu-item-type-post_type menu-item-object-service "><a href="/service/business-planning/" aria-current="page">Factoring & Forfaiting<i class="fac fac-angle-right"></i></a></li><li id="menu-item-1817" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1817"><a href="/service/program-management/">Credit Insurance<i class="fac fac-angle-right"></i></a></li>
 
 
 </ul></div></div></div></div><div class="elementor-element elementor-element-5e6d0038 elementor-widget elementor-widget-spacer" data-id="5e6d0038" data-element_type="widget" data-widget_type="spacer.default">
@@ -1009,125 +942,6 @@
         </div>
         </section>
                                               
-                                               
-                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-9fc20d1 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none"
-                                                    data-id="9fc20d1" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-container elementor-column-gap-extended ">
-                                                        <div class="elementor-row">
-                                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fc3af54" data-id="fc3af54" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                <div class="elementor-column-wrap elementor-element-populated">
-                                                                    <div class="elementor-widget-wrap">
-                                                                        <div class="elementor-element elementor-element-d58ce29 elementor-widget elementor-widget-spacer" data-id="d58ce29" data-element_type="widget" data-widget_type="spacer.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="elementor-spacer">
-                                                                                    <div class="elementor-spacer-inner"></div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="elementor-element elementor-element-269754b elementor-widget elementor-widget-ct_heading" data-id="269754b" data-element_type="widget" data-widget_type="ct_heading.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
-                                                                                    <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> You can learn more from our asked questions </span></h3>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="elementor-element elementor-element-cd9285e elementor-widget elementor-widget-ct_accordion" data-id="cd9285e" data-element_type="widget" data-widget_type="ct_accordion.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div id="ct_accordion-cd9285e" class="ct-accordion layout1 style1 wow fadeInUp">
-                                                                                    <div class="ct-accordion-item active">
-                                                                                        <div class="ct-ac-title active" data-target="#da12eecct_accordion-cd9285e"> <a class="ct-ac-title-text"> What should I include in my personal statement? </a></div>
-                                                                                        <div id="da12eecct_accordion-cd9285e" class="ct-ac-content" style="display:block;">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
-                                                                                    </div>
-                                                                                    <div class="ct-accordion-item ">
-                                                                                        <div class="ct-ac-title " data-target="#d8c2527ct_accordion-cd9285e"> <a class="ct-ac-title-text"> What will happen when I’ve sent my application? </a></div>
-                                                                                        <div id="d8c2527ct_accordion-cd9285e" class="ct-ac-content">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
-                                                                                    </div>
-                                                                                    <div class="ct-accordion-item ">
-                                                                                        <div class="ct-ac-title " data-target="#5e4a690ct_accordion-cd9285e"> <a class="ct-ac-title-text"> How can I make a change to my application? </a></div>
-                                                                                        <div id="5e4a690ct_accordion-cd9285e" class="ct-ac-content">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
-                                                                                    </div>
-                                                                                    <div class="ct-accordion-item ">
-                                                                                        <div class="ct-ac-title " data-target="#c7e6a44ct_accordion-cd9285e"> <a class="ct-ac-title-text"> How can I consult with the consultant team? </a></div>
-                                                                                        <div id="c7e6a44ct_accordion-cd9285e" class="ct-ac-content">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3bdb6bb" data-id="3bdb6bb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                <div class="elementor-column-wrap elementor-element-populated">
-                                                                    <div class="elementor-background-overlay"></div>
-                                                                    <div class="elementor-widget-wrap">
-                                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-c08d440 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none"
-                                                                            data-id="c08d440" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                            <div class="elementor-container elementor-column-gap-extended ">
-                                                                                <div class="elementor-row">
-                                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1dc9621" data-id="1dc9621" data-element_type="column">
-                                                                                        <div class="elementor-column-wrap elementor-element-populated">
-                                                                                            <div class="elementor-widget-wrap">
-                                                                                                <div class="elementor-element elementor-element-3bf5ce4 elementor-widget elementor-widget-ct_heading" data-id="3bf5ce4" data-element_type="widget" data-widget_type="ct_heading.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
-                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Get a free quote here </span></h3>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-919bc6b elementor-widget elementor-widget-text-editor" data-id="919bc6b" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="elementor-text-editor elementor-clearfix">
-                                                                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="elementor-element elementor-element-628ed8b elementor-widget elementor-widget-ct_ctf7" data-id="628ed8b" data-element_type="widget" data-widget_type="ct_ctf7.default">
-                                                                                                    <div class="elementor-widget-container">
-                                                                                                        <div class="ct-contact-form-layout1 style1 wow fadeInUp">
-                                                                                                            <div class="ct-contact-form-inner">
-                                                                                                                <div class="ct-contact-form">
-                                                                                                                    <div role="form" class="wpcf7" id="wpcf7-f91-p9-o1" lang="en-US" dir="ltr">
-                                                                                                                        <div class="screen-reader-response">
-                                                                                                                            <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                                                                                                            <ul></ul>
-                                                                                                                        </div>
-                                                                                                                        <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
-                                                                                                                            data-status="init">
-                                                                                                                            <div style="display: none;"> <input type="hidden" name="_wpcf7" value="91" /> <input type="hidden" name="_wpcf7_version" value="5.5" /> <input type="hidden"
-                                                                                                                                    name="_wpcf7_locale" value="en_US" /> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f91-p9-o1" /> <input type="hidden"
-                                                                                                                                    name="_wpcf7_container_post" value="9" /> <input type="hidden" name="_wpcf7_posted_data_hash" value="" /></div>
-                                                                                                                            <div class="input-filled"><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name*" /></span></div>
-                                                                                                                            <div
-                                                                                                                                class="input-filled"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your mail*" /></span></div>
-                                                                                                                    <div
-                                                                                                                        class="input-filled"><span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone*" /></span></div>
-                                                                                                                <div
-                                                                                                                    class="input-filled"><span class="wpcf7-form-control-wrap your-subject"><select name="your-subject" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Subject">Subject</option><option value="Success fullfill">Success fullfill</option><option value="StartUp business">StartUp business</option><option value="Leadership work">Leadership work</option><option value="Business Growth">Business Growth</option></select></span></div>
-                                                                                                            <div
-                                                                                                                class="input-filled"><button type="submit" class="wpcf7-submit btn btn-block"><i class="fac fac-check-circle space-right"></i>Consult today</button></div>
-                                                                                                        <div class="wpcf7-response-output"
-                                                                                                            aria-hidden="true"></div>
-                                                                                                        </form>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        </section>
-                                                    </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                        </div>
-                        </section>
-                       
-                    
 
     </div>
     </div>
@@ -1146,6 +960,7 @@
     <!-- #content inner -->
     </div>
     <!-- #content -->
+   
     <footer id="colophon" class="site-footer-custom">
         <div class="footer-custom-inner">
             <div class="container">
@@ -1282,7 +1097,8 @@
                     </div>
                 </div>
             </div>
-        </div> <span class="ct-footer-year">2021</span></footer> <a href="#" class="scroll-top"><i class="zmdi zmdi-long-arrow-up"></i></a></div>
+        </div> <span class="ct-footer-year">2021</span></footer>
+    <a href="#" class="scroll-top"><i class="zmdi zmdi-long-arrow-up"></i></a></div>
     <!-- #page -->
     <div class="ct-modal ct-modal-search">
         <div class="ct-modal-close"><i class="ct-icon-close ct-center"></i></div>
@@ -1480,7 +1296,7 @@
         </div>
     </div>
     <script type="text/template" id="tmpl-variation-template">
-      
+       
     </script>
     <script type="text/template" id="tmpl-unavailable-variation-template">
         <p>Sorry, this product is unavailable. Please choose a different combination.</p>
