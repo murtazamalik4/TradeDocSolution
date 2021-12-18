@@ -2032,7 +2032,7 @@
                                                                 <div class="item--icon"> <i aria-hidden="true" class="fas fa-map-marker-alt"></i></div>
                                                                 <div class="item--holder">
                                                                     <h3 class="item--title"> Our head office address:</h3>
-                                                                    <div class="item--description">S-6, Shan-e-Fiza Apartment, Koh-e-Fiza, Bhopal (M.P.)</div>
+                                                                    <div class="item--description">Floor 50, City tower 2, Sheikh Zyaed Rd., Dubai (UAE)</div>
                                                                 </div>
                                                             </div>
                                                         </div>
