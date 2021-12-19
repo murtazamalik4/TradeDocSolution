@@ -1623,8 +1623,40 @@
                                 </div>
                             </div>
                         </section>
+
+                        <section class="elementor-section elementor-top-section elementor-element elementor-element-6499ddda elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="6499ddda"
+        data-element_type="section">
+        <div class="elementor-container elementor-column-gap-extended ">
+            <div class="elementor-row">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9b55243" data-id="9b55243" data-element_type="column">
+                    <div class="elementor-column-wrap elementor-element-populated">
+                        <div class="elementor-widget-wrap">
+                            <div class="elementor-element elementor-element-6fd9ea5a elementor-widget elementor-widget-ct_heading" data-id="6fd9ea5a" data-element_type="widget" data-widget_type="ct_heading.default">
+                                <div class="elementor-widget-container">
+                                    <div class="ct-heading h-align-  sub- ct-heading-left item-st-line-left1">
+                                        <h3 class="item--title st-line-left1 " data-wow-delay="ms"> <span class="sp-main"> <i></i> We’re here to share story &amp; more news from resource library. </span></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-736d7ff6" data-id="736d7ff6" data-element_type="column">
+                    <div class="elementor-column-wrap elementor-element-populated">
+                        <div class="elementor-widget-wrap">
+                            <div class="elementor-element elementor-element-780dc1b8 elementor-widget elementor-widget-text-editor" data-id="780dc1b8" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-text-editor elementor-clearfix"> We would love to share a similar experience and how I learned some valuable lessons during a downturn.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
                         
-                        <section class="elementor-section elementor-top-section elementor-element elementor-element-8242be5 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="8242be5"
+                        <!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-8242be5 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="8242be5"
                             data-element_type="section">
                             <div class="elementor-container elementor-column-gap-extended ">
                                 <div class="elementor-row">
@@ -1639,7 +1671,7 @@
                                                                     data-colsm="2" data-colmd="3" data-collg="3" data-colxl="4" data-dir="false" data-slidesToScroll="1">
                                                                     <div class="slick-slide">
                                                                         <div class="item--inner wow fadeInUp">
-                                                                            <div class="item--image"> <a href="/team-details/"><img class="" src="/wp-content/uploads/2019/12/home-team-01-265x352.jpg" width="265" height="352" alt="home-team-01" title="home-team-01" /></a></div>
+                                                                            <div class="item--image"> <a href="/team-details/"><img class="" src="/wp-content/uploads/khalu.jpg" width="265" height="352" alt="home-team-01" title="home-team-01" /></a></div>
                                                                             <div
                                                                                 class="item--holder">
                                                                                 <div class="item--holder-inner">
@@ -1719,7 +1751,7 @@
                 </div>
             </div>
         </div>
-                        </section>
+                        </section> -->
 
 
         <section class="elementor-section elementor-top-section elementor-element elementor-element-cdb8c2d elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="cdb8c2d"
@@ -2207,37 +2239,7 @@
             </div>
         </div>
     </section>
-    <section class="elementor-section elementor-top-section elementor-element elementor-element-6499ddda elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="6499ddda"
-        data-element_type="section">
-        <div class="elementor-container elementor-column-gap-extended ">
-            <div class="elementor-row">
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9b55243" data-id="9b55243" data-element_type="column">
-                    <div class="elementor-column-wrap elementor-element-populated">
-                        <div class="elementor-widget-wrap">
-                            <div class="elementor-element elementor-element-6fd9ea5a elementor-widget elementor-widget-ct_heading" data-id="6fd9ea5a" data-element_type="widget" data-widget_type="ct_heading.default">
-                                <div class="elementor-widget-container">
-                                    <div class="ct-heading h-align-  sub- ct-heading-left item-st-line-left1">
-                                        <h3 class="item--title st-line-left1 " data-wow-delay="ms"> <span class="sp-main"> <i></i> We’re here to share story &amp; more news from resource library. </span></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-736d7ff6" data-id="736d7ff6" data-element_type="column">
-                    <div class="elementor-column-wrap elementor-element-populated">
-                        <div class="elementor-widget-wrap">
-                            <div class="elementor-element elementor-element-780dc1b8 elementor-widget elementor-widget-text-editor" data-id="780dc1b8" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-text-editor elementor-clearfix"> We would love to share a similar experience and how I learned some valuable lessons during a downturn.</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <section class="elementor-section elementor-top-section elementor-element elementor-element-17da0d64 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="17da0d64" data-element_type="section">
         <div class="elementor-container elementor-column-gap-extended ">
             <div class="elementor-row">

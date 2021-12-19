@@ -860,7 +860,9 @@
                                                                                         <!-- START Finance REVOLUTION SLIDER 6.5.8 -->
                                                                                         <p class="rs-p-wp-fix"></p>
                                                                                        
-                                                                                        <div id="pagetitle" class="page-title bg-image "><div class="container"><div class="page-title-inner"><div class="page-title-holder"><h1 class="page-title">Services</h1></div><ul class="ct-breadcrumb"><li><a class="breadcrumb-entry" href="/">Home</a></li><li><a class="breadcrumb-entry" href="/service/">Services</a></li><li><span class="breadcrumb-entry">Business Planning</span></li></ul></div></div></div>
+                                                                                        <div id="pagetitle" class="page-title bg-image ">
+                                                                                            
+                                                                                            <div class="container"><div class="page-title-inner"><div class="page-title-holder"><h1 class="page-title">Services</h1></div><ul class="ct-breadcrumb"><li><a class="breadcrumb-entry" href="/">Home</a></li><li><a class="breadcrumb-entry" href="/service/">Services</a></li><li><span class="breadcrumb-entry">Business Planning</span></li></ul></div></div></div>
 
                                                                                     </div>
                                                                                 </div>
@@ -874,7 +876,8 @@
 
 
                                                 
-                                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-4881fb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="4881fb50" data-element_type="section" style="margin-top: 25px;"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-60f5cf44" data-id="60f5cf44" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5236cc5c elementor-widget elementor-widget-ct_title" data-id="5236cc5c" data-element_type="widget" data-widget_type="ct_title.default"><div class="elementor-widget-container"><div class="ct-title1 style2"><h3><i></i></h3></div></div></div><div class="elementor-element elementor-element-5bf474db elementor-widget elementor-widget-text-editor" data-id="5bf474db" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">- View Services Contents for Letter of Credit.<br/>
+                                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-4881fb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="4881fb50" data-element_type="section" style="margin-top: 25px;"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-60f5cf44" data-id="60f5cf44" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5236cc5c elementor-widget elementor-widget-ct_title" data-id="5236cc5c" data-element_type="widget" data-widget_type="ct_title.default"><div class="elementor-widget-container"><div class="ct-title1 style2"><h3><i></i></h3></div></div></div><div class="elementor-element elementor-element-5bf474db elementor-widget elementor-widget-text-editor" data-id="5bf474db" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">
+                                                        <h3>Services (Letter of Credit)</h3><br/><br/>
 - Quick review LC with agreed purchase contract. <br/>
 - Issue Amendment advice (if any amendment is apparently visible) <br/>
 - Participate in Discussion of Amendment advice with the LC Opener or Applicant <br/>
@@ -883,7 +886,7 @@
 - Dealing with the discrepancy(s) if any with the bank and the LC applicant. <br/>
 - Final Payment confirmation from the bank <br/>
 
-- View Services Contents for Credit Insurance <br/>
+<h3>Services (Trade Credit Insurance )</h3> <br/><br/>
 - Case Study<br/>
 - Credit Aging report review<br/>
 - Advise to curtail the ECL i.e. Estimated Credit Loss<br/>
