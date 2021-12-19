@@ -2132,7 +2132,7 @@
                                                                     <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
                                                                     <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                                 </ul>
-                                                                <h3 class="entry-title"><a href="/strategy-for-norways-peion-to-fund-global/">Strategy for Norway&#8217;s Peion to Fund Global.</a></h3>
+                                                                <h3 class="entry-title"><a href="/strategy-for-norways-peion-to-fund-global/">Blogs coming soon!</a></h3>
                                                                 <div class="entry-readmore"> <a href="/strategy-for-norways-peion-to-fund-global/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                             </div>
                                                     </div>
@@ -2148,7 +2148,7 @@
                                                                 <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
                                                                 <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                             </ul>
-                                                            <h3 class="entry-title"><a href="/what-we-are-capable-to-beo-usually-discovered/">What we are capable to usually discovered.</a></h3>
+                                                            <h3 class="entry-title"><a href="/what-we-are-capable-to-beo-usually-discovered/">Blogs coming soon!</a></h3>
                                                             <div class="entry-readmore"> <a href="/what-we-are-capable-to-beo-usually-discovered/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                         </div>
                                                 </div>
@@ -2164,7 +2164,7 @@
                                                             <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
                                                             <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                         </ul>
-                                                        <h3 class="entry-title"><a href="/food-industry-leaders-often-change-their-profound/">Food industry leaders often change their.</a></h3>
+                                                        <h3 class="entry-title"><a href="/food-industry-leaders-often-change-their-profound/">Blogs coming soon!</a></h3>
                                                         <div class="entry-readmore"> <a href="/food-industry-leaders-often-change-their-profound/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                     </div>
                                             </div>

@@ -37,3 +37,7 @@ Route::get('/services', function () {
     return view('services');
 });
 
+
+Route::get('/working', function () {
+    return view('work');
+});
