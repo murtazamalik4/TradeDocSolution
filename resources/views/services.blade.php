@@ -877,7 +877,7 @@
 
                                                 
                                                     <section class="elementor-section elementor-top-section elementor-element elementor-element-4881fb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="4881fb50" data-element_type="section" style="margin-top: 25px;"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-60f5cf44" data-id="60f5cf44" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5236cc5c elementor-widget elementor-widget-ct_title" data-id="5236cc5c" data-element_type="widget" data-widget_type="ct_title.default"><div class="elementor-widget-container"><div class="ct-title1 style2"><h3><i></i></h3></div></div></div><div class="elementor-element elementor-element-5bf474db elementor-widget elementor-widget-text-editor" data-id="5bf474db" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-text-editor elementor-clearfix">
-                                                        <h3>Services (Letter of Credit)</h3><br/>
+                                                        <h3 style="margin-top:10px;">Services (Letter of Credit)</h3><br/>
 - Quick review LC with agreed purchase contract. <br/>
 - Issue Amendment advice (if any amendment is apparently visible) <br/>
 - Participate in Discussion of Amendment advice with the LC Opener or Applicant <br/>
