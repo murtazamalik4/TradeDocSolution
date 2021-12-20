@@ -2101,7 +2101,7 @@
                         <div class="elementor-widget-wrap">
                             <div class="elementor-element elementor-element-780dc1b8 elementor-widget elementor-widget-text-editor" data-id="780dc1b8" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <div class="elementor-text-editor elementor-clearfix"> We would love to share a similar experience and how I learned some valuable lessons during a downturn.</div>
+                                    <div class="elementor-text-editor elementor-clearfix">We would love to share experiences and how valuable trade documentations are to a company.</div>
                                 </div>
                             </div>
                         </div>
