@@ -1007,29 +1007,8 @@
                                                                                                             </div>
                                                                                                         </div>
                                                                                                         <div class="item--meta">
-                                                                                                            <h3 class="item--title"><a href="/service/business-planning/">LC Documentations</a></h3>
+                                                                                                            <h3 class="item--title"><a href="/lc-docs">LC Documentations</a></h3>
                                                                                                             <div class="item--readmore"> <a class="more-plus" href="/lcdoc.html">+</a></div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="carousel-item slick-slide">
-                                                                                                <div class="grid-item-inner wow fadeInUp active-featured">
-                                                                                                    <div class="grid-item-over">
-                                                                                                        <div class="item--featured"> <img class="" src="/wp-content/uploads/2019/11/theme-10-541x600.jpg" width="541" height="600" alt="theme-10" title="theme-10"
-                                                                                                            /></div>
-                                                                                                        <div class="item--holder">
-                                                                                                            <div class="item--holder-inner">
-                                                                                                                <div class="item--icon"><i class="text-gradient flaticon-puzzle"></i></div>
-                                                                                                                <h3 class="item--title">Collection Documentations</h3>
-                                                                                                                <div class="item--gap"></div>
-                                                                                                                <div class="item--content">We boast our expertise in making accurate collection documentations for our clients to facilitate efficient and hassle free business transactions.</div>
-                                                                                                                <div class="item--icon-abs"><i class="text-gradient flaticon-puzzle"></i></div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                        <div class="item--meta">
-                                                                                                            <h3 class="item--title"><a href="/service/program-management/">Collection Documentations</a></h3>
-                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/collection-doc.html">+</a></div>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -1049,12 +1028,35 @@
                                                                                                             </div>
                                                                                                         </div>
                                                                                                         <div class="item--meta">
-                                                                                                            <h3 class="item--title"><a href="/service/strategy/">Trade Insurance</a></h3>
+                                                                                                            <h3 class="item--title"><a href="/credit-insurance">Trade Insurance</a></h3>
                                                                                                             <div class="item--readmore"> <a class="more-plus" href="/credit-insurance.html">+</a></div>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
+
+                                                                                            <div class="carousel-item slick-slide">
+                                                                                                <div class="grid-item-inner wow fadeInUp active-featured">
+                                                                                                    <div class="grid-item-over">
+                                                                                                        <div class="item--featured"> <img class="" src="/wp-content/uploads/2019/11/theme-10-541x600.jpg" width="541" height="600" alt="theme-10" title="theme-10"
+                                                                                                            /></div>
+                                                                                                        <div class="item--holder">
+                                                                                                            <div class="item--holder-inner">
+                                                                                                                <div class="item--icon"><i class="text-gradient flaticon-puzzle"></i></div>
+                                                                                                                <h3 class="item--title">Collection Documentations</h3>
+                                                                                                                <div class="item--gap"></div>
+                                                                                                                <div class="item--content">We boast our expertise in making accurate collection documentations for our clients to facilitate efficient and hassle free business transactions.</div>
+                                                                                                                <div class="item--icon-abs"><i class="text-gradient flaticon-puzzle"></i></div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div class="item--meta">
+                                                                                                            <h3 class="item--title"><a href="#">Collection Documentations</a></h3>
+                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/collection-doc.html">+</a></div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                           
                                                                                           
                                                                                         </div>
                                                                                     </div>
@@ -1232,7 +1234,7 @@
                                                                                                     <h3 class="item--title"><a href="/service/success-fullfill/">Satisfactory Results</a></h3>
                                                                                                     <div class="item--content">Understanding your requirements within no time. Reviewing Your receivables, Purchase Contract, and communication while supporting to bring the best results for you. We stand behind you for your every action. 
                                                                                                     </div>
-                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-target-1"></i></div> <a class="item--readmore" href="/service/success-fullfill/"></a></div>
+                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-target-1"></i></div> <a class="item--readmore" href="#"></a></div>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="grid-item col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 ">
@@ -1243,7 +1245,7 @@
                                                                                                     <h3 class="item--title"><a href="/service/startup-business/">Relevant Workflow</a></h3>
                                                                                                     <div class="item--content">Form process and Logical sequence to prepare the documents well in time
                                                                                                     </div>
-                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-marketing-strategy"></i></div> <a class="item--readmore" href="/service/startup-business/"></a></div>
+                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-marketing-strategy"></i></div> <a class="item--readmore" href="#"></a></div>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="grid-item col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 ">
@@ -1254,7 +1256,7 @@
                                                                                                     <h3 class="item--title"><a href="/service/leadership-work/">Full Assistance</a></h3>
                                                                                                     <div class="item--content">We Provide full assistance and guidance till final payment negotiation.
                                                                                                     </div>
-                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-leadership"></i></div> <a class="item--readmore" href="/service/leadership-work/"></a></div>
+                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-leadership"></i></div> <a class="item--readmore" href="#"></a></div>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="grid-item col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 ">
@@ -1262,7 +1264,7 @@
                                                                                                 <div class="grid-item-holder">
                                                                                                     <div class="item--overlay"></div>
                                                                                                     <div class="item--icon"><i class="text-gradient flaticon-report"></i></div>
-                                                                                                    <h3 class="item--title"><a href="/service/business-growth/">Business Growth</a></h3>
+                                                                                                    <h3 class="item--title"><a href="#">Business Growth</a></h3>
                                                                                                     <div class="item--content"> Support to under the LC, LG including all banking documents to line up all trade finance products that ease your business process and facilitate you with good amount of Liquidity.
                                                                                                     </div>
                                                                                                     <div class="item--icon-abs"><i class="text-gradient flaticon-report"></i></div> <a class="item--readmore" href="/service/business-growth/"></a></div>
