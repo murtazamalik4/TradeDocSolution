@@ -4,7 +4,7 @@
                 <div id="ct-header-middle">
                     <div class="container">
                         <div class="row">
-                            <div class="ct-header-branding"> <a class="logo-dark" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/logo-web5.png" alt="Consultio"/></a>
+                            <div class="ct-header-branding"> <a class="logo-dark" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/trade-doc-logo-final.png" alt="Consultio"/></a>
                            </div>
                             <div class="ct-header-holder">
                                 <div class="ct-header-info-item ct-header-call">
@@ -21,7 +21,7 @@
                 <div id="ct-header" class="ct-header-main">
                     <div class="container">
                         <div class="row">
-                            <div class="ct-header-branding"> <a class="logo-web5" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/2020/02/logo-web.png" alt="Consultio"/></a>
+                            <div class="ct-header-branding"> <a class="logo-web5" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/2020/02/trade-doc-logo-final.png" alt="Consultio"/></a>
                                    </div>
                             <div class="ct-header-navigation">
                                 <div class="ct-header-navigation-bg">
@@ -32,11 +32,10 @@
                                                 <form role="search" method="get" action="/"> <input type="text" placeholder="Search..." name="s" class="search-field" /> <button type="submit" class="search-submit"><i class="fac fac-search"></i></button></form>
                                             </div>
                                             <ul id="menu-main-menu" class="ct-main-menu sub-hover children-plus clearfix">
-                                                <li id="menu-item-3911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3911">
-                                                    <a href="/" class="show-demos">
-                                                        <span>Home</span>
-                                                    </a>
+
+                                                <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/"><span>Home</span></a>
                                                 </li>
+    
 
                                                 <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/lc-docs"><span>LC</span></a>
                                                     
