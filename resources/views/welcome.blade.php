@@ -1043,7 +1043,7 @@
                                                                                                         <div class="item--holder">
                                                                                                             <div class="item--holder-inner">
                                                                                                                 <div class="item--icon"><i class="text-gradient flaticon-puzzle"></i></div>
-                                                                                                                <h3 class="item--title">Collection Documentations</h3>
+                                                                                                                <h3 class="item--title">Collection Documentations (Coming Soon)</h3>
                                                                                                                 <div class="item--gap"></div>
                                                                                                                 <div class="item--content">We boast our expertise in making accurate collection documentations for our clients to facilitate efficient and hassle free business transactions.</div>
                                                                                                                 <div class="item--icon-abs"><i class="text-gradient flaticon-puzzle"></i></div>
@@ -2134,7 +2134,7 @@
                                                                     <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
                                                                     <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                                 </ul>
-                                                                <h3 class="entry-title"><a href="/strategy-for-norways-peion-to-fund-global/">Blogs coming soon!</a></h3>
+                                                                <h3 class="entry-title"><a href="/blog-page">Blogs coming soon!</a></h3>
                                                                 <div class="entry-readmore"> <a href="/strategy-for-norways-peion-to-fund-global/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                             </div>
                                                     </div>
@@ -2148,9 +2148,9 @@
                                                         <div class="entry-holder">
                                                             <ul class="entry-meta">
                                                                 <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
-                                                                <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
+                                                                <li class="item-author"> <a href="#"><i class="fac fac-user"></i>admin</a></li>
                                                             </ul>
-                                                            <h3 class="entry-title"><a href="/what-we-are-capable-to-beo-usually-discovered/">Blogs coming soon!</a></h3>
+                                                            <h3 class="entry-title"><a href="/blog-page">Blogs coming soon!</a></h3>
                                                             <div class="entry-readmore"> <a href="/what-we-are-capable-to-beo-usually-discovered/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                         </div>
                                                 </div>
@@ -2166,7 +2166,7 @@
                                                             <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
                                                             <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                         </ul>
-                                                        <h3 class="entry-title"><a href="/food-industry-leaders-often-change-their-profound/">Blogs coming soon!</a></h3>
+                                                        <h3 class="entry-title"><a href="/blog-page">Blogs coming soon!</a></h3>
                                                         <div class="entry-readmore"> <a href="/food-industry-leaders-often-change-their-profound/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                     </div>
                                             </div>
