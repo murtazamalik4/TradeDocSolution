@@ -1001,8 +1001,8 @@
                                                                                                                     <div class="item--icon"><i class="text-gradient flaticon-chart"></i></div>
                                                                                                                     <h3 class="item--title">LC Documentations</h3>
                                                                                                                     <div class="item--gap"></div>
-                                                                                                                    <div class="item--content">We boast our expertise in making LC process easier for our clients to facilitate efficient and hassle free business transactions. </div>
-                                                                                                                    <div
+                                                                                                                    <div class="item--content">We boast our expertise in making LC process easier for our clients to facilitate efficient and hassle free business transactions.</div>
+                                                                                                                    <div 
                                                                                                                         class="item--icon-abs"><i class="text-gradient flaticon-chart"></i></div>
                                                                                                             </div>
                                                                                                         </div>
