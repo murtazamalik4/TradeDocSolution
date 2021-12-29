@@ -4,7 +4,7 @@
                 <div id="ct-header-middle">
                     <div class="container">
                         <div class="row">
-                            <div class="ct-header-branding"> <a class="logo-dark" href="/" title="Consultio" rel="home"><img src="/wp-content/uploads/trade-doc-logo-final.png" alt="Consultio"/></a>
+                            <div class="ct-header-branding"> <a class="logo-dark" href="/" title="Trade Doc Solution" rel="home"><img src="/wp-content/uploads/trade-doc-logo-final.png" style="max-height:85px;" alt="tradedocsolution"/></a>
                            </div>
                             <div class="ct-header-holder">
                                 <div class="ct-header-info-item ct-header-call">

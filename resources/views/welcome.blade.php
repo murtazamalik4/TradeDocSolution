@@ -1008,7 +1008,7 @@
                                                                                                         </div>
                                                                                                         <div class="item--meta">
                                                                                                             <h3 class="item--title"><a href="/lc-docs">LC Documentations</a></h3>
-                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/lc-docs.html">+</a></div>
+                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/lc-docs">+</a></div>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -1051,7 +1051,7 @@
                                                                                                         </div>
                                                                                                         <div class="item--meta">
                                                                                                             <h3 class="item--title"><a href="#">Collection Documentations</a></h3>
-                                                                                                            <div class="item--readmore"> <a class="more-plus" href="/collection-doc.html">+</a></div>
+                                                                                                            <div class="item--readmore"> <a class="more-plus" href="#">+</a></div>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -2151,7 +2151,7 @@
                                                                 <li class="item-author"> <a href="#"><i class="fac fac-user"></i>admin</a></li>
                                                             </ul>
                                                             <h3 class="entry-title"><a href="/blog-page">Blogs coming soon!</a></h3>
-                                                            <div class="entry-readmore"> <a href="/what-we-are-capable-to-beo-usually-discovered/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
+                                                            <div class="entry-readmore"> <a href="/blog-page"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                         </div>
                                                 </div>
                                             </div>
@@ -2167,7 +2167,7 @@
                                                             <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                         </ul>
                                                         <h3 class="entry-title"><a href="/blog-page">Blogs coming soon!</a></h3>
-                                                        <div class="entry-readmore"> <a href="/food-industry-leaders-often-change-their-profound/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
+                                                        <div class="entry-readmore"> <a href="/blog-page"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                     </div>
                                             </div>
                                         </div>
