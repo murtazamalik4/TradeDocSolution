@@ -1231,7 +1231,7 @@
                                                                                                 <div class="grid-item-holder">
                                                                                                     <div class="item--overlay"></div>
                                                                                                     <div class="item--icon"><i class="text-gradient flaticon-target-1"></i></div>
-                                                                                                    <h3 class="item--title"><a href="/service/success-fullfill/">Satisfactory Results</a></h3>
+                                                                                                    <h3 class="item--title"><a href="#">Satisfactory Results</a></h3>
                                                                                                     <div class="item--content">Understanding your requirements within no time. Reviewing Your receivables, Purchase Contract, and communication while supporting to bring the best results for you. We stand behind you for your every action. 
                                                                                                     </div>
                                                                                                     <div class="item--icon-abs"><i class="text-gradient flaticon-target-1"></i></div> <a class="item--readmore" href="#"></a></div>
@@ -1242,7 +1242,7 @@
                                                                                                 <div class="grid-item-holder">
                                                                                                     <div class="item--overlay"></div>
                                                                                                     <div class="item--icon"><i class="text-gradient flaticon-marketing-strategy"></i></div>
-                                                                                                    <h3 class="item--title"><a href="/service/startup-business/">Relevant Workflow</a></h3>
+                                                                                                    <h3 class="item--title"><a href="#">Relevant Workflow</a></h3>
                                                                                                     <div class="item--content">Form process and Logical sequence to prepare the documents well in time
                                                                                                     </div>
                                                                                                     <div class="item--icon-abs"><i class="text-gradient flaticon-marketing-strategy"></i></div> <a class="item--readmore" href="#"></a></div>
@@ -1253,7 +1253,7 @@
                                                                                                 <div class="grid-item-holder">
                                                                                                     <div class="item--overlay"></div>
                                                                                                     <div class="item--icon"><i class="text-gradient flaticon-leadership"></i></div>
-                                                                                                    <h3 class="item--title"><a href="/service/leadership-work/">Full Assistance</a></h3>
+                                                                                                    <h3 class="item--title"><a href="#">Full Assistance</a></h3>
                                                                                                     <div class="item--content">We Provide full assistance and guidance till final payment negotiation.
                                                                                                     </div>
                                                                                                     <div class="item--icon-abs"><i class="text-gradient flaticon-leadership"></i></div> <a class="item--readmore" href="#"></a></div>
@@ -1267,7 +1267,7 @@
                                                                                                     <h3 class="item--title"><a href="#">Business Growth</a></h3>
                                                                                                     <div class="item--content"> Support to under the LC, LG including all banking documents to line up all trade finance products that ease your business process and facilitate you with good amount of Liquidity.
                                                                                                     </div>
-                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-report"></i></div> <a class="item--readmore" href="/service/business-growth/"></a></div>
+                                                                                                    <div class="item--icon-abs"><i class="text-gradient flaticon-report"></i></div> <a class="item--readmore" href="/#"></a></div>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="grid-sizer col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12"></div>
@@ -2158,7 +2158,7 @@
                                         </div>
                                         <div class="carousel-item slick-slide">
                                             <div class="grid-item-inner wow fadeInUp">
-                                                <div class="entry-featured featured-filter"> <a href="/food-industry-leaders-often-change-their-profound/"><img class="" src="/wp-content/uploads/2019/11/theme-14-600x389.jpg" width="600" height="389" alt="theme-14" title="theme-14" /></a></div>
+                                                <div class="entry-featured featured-filter"> <a href="/blog-page"><img class="" src="/wp-content/uploads/2019/11/theme-14-600x389.jpg" width="600" height="389" alt="theme-14" title="theme-14" /></a></div>
                                                 <div
                                                     class="entry-body">
                                                     <div class="entry-holder">
@@ -2182,8 +2182,8 @@
                                                         <li class="item-date"><i class="fac fac-calendar-alt"></i>November 5, 2019</li>
                                                         <li class="item-author"> <a href="/author/admin/"><i class="fac fac-user"></i>admin</a></li>
                                                     </ul>
-                                                    <h3 class="entry-title"><a href="/how-to-go-about-intiating-an-start-up/">How to go about intiating an start-up.</a></h3>
-                                                    <div class="entry-readmore"> <a href="/how-to-go-about-intiating-an-start-up/"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
+                                                    <h3 class="entry-title"><a href="/blog-page">How to go about intiating an start-up.</a></h3>
+                                                    <div class="entry-readmore"> <a href="/blog-page"> Read more <i class="fac fac-angle-double-right space-left"></i> </a></div>
                                                 </div>
                                         </div>
                                     </div>
