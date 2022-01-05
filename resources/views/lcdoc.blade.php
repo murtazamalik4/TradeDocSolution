@@ -1076,14 +1076,14 @@
                                                                                                 <div class="elementor-element elementor-element-3bf5ce4 elementor-widget elementor-widget-ct_heading" data-id="3bf5ce4" data-element_type="widget" data-widget_type="ct_heading.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
-                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Get a free quote here </span></h3>
+                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Talk to us </span></h3>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-919bc6b elementor-widget elementor-widget-text-editor" data-id="919bc6b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                                                                                            <p>Tell us about your requirements and let us take care of your documentation process.</p>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -1107,8 +1107,7 @@
                                                                                                                                 class="input-filled"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your mail*" /></span></div>
                                                                                                                     <div
                                                                                                                         class="input-filled"><span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone*" /></span></div>
-                                                                                                                <div
-                                                                                                                    class="input-filled"><span class="wpcf7-form-control-wrap your-subject"><select name="your-subject" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Subject">Subject</option><option value="Success fullfill">Success fullfill</option><option value="StartUp business">StartUp business</option><option value="Leadership work">Leadership work</option><option value="Business Growth">Business Growth</option></select></span></div>
+                                                                                                                
                                                                                                             <div
                                                                                                                 class="input-filled"><button type="submit" class="wpcf7-submit btn btn-block"><i class="fac fac-check-circle space-right"></i>Consult today</button></div>
                                                                                                         <div class="wpcf7-response-output"
