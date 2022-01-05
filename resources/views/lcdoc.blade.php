@@ -1041,20 +1041,20 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div id="ct_accordion-cd9285e" class="ct-accordion layout1 style1 wow fadeInUp">
                                                                                     <div class="ct-accordion-item active">
-                                                                                        <div class="ct-ac-title active" data-target="#da12eecct_accordion-cd9285e"> <a class="ct-ac-title-text"> What should I include in my personal statement? </a></div>
-                                                                                        <div id="da12eecct_accordion-cd9285e" class="ct-ac-content" style="display:block;">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
+                                                                                        <div class="ct-ac-title active" data-target="#da12eecct_accordion-cd9285e"> <a class="ct-ac-title-text"> How do I sign up? </a></div>
+                                                                                        <div id="da12eecct_accordion-cd9285e" class="ct-ac-content" style="display:block;">Click on the 'Register Now' button on top, fill in the credentials and get onboard. For more details check 'How we work' page. </div>
                                                                                     </div>
                                                                                     <div class="ct-accordion-item ">
-                                                                                        <div class="ct-ac-title " data-target="#d8c2527ct_accordion-cd9285e"> <a class="ct-ac-title-text"> What will happen when I’ve sent my application? </a></div>
-                                                                                        <div id="d8c2527ct_accordion-cd9285e" class="ct-ac-content">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
+                                                                                        <div class="ct-ac-title " data-target="#d8c2527ct_accordion-cd9285e"> <a class="ct-ac-title-text"> Does your Dahsboard require KYC Approval?</a></div>
+                                                                                        <div id="d8c2527ct_accordion-cd9285e" class="ct-ac-content">Yes a proper KYC form is to be filled and uploaded for us to verfiy your authenticity. (Form is available on our dashboard)</div>
                                                                                     </div>
                                                                                     <div class="ct-accordion-item ">
-                                                                                        <div class="ct-ac-title " data-target="#5e4a690ct_accordion-cd9285e"> <a class="ct-ac-title-text"> How can I make a change to my application? </a></div>
-                                                                                        <div id="5e4a690ct_accordion-cd9285e" class="ct-ac-content">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
+                                                                                        <div class="ct-ac-title " data-target="#5e4a690ct_accordion-cd9285e"> <a class="ct-ac-title-text"> How much time does it take for documentation process to complete? </a></div>
+                                                                                        <div id="5e4a690ct_accordion-cd9285e" class="ct-ac-content">It depends on the complexity and nature of documents. </div>
                                                                                     </div>
                                                                                     <div class="ct-accordion-item ">
-                                                                                        <div class="ct-ac-title " data-target="#c7e6a44ct_accordion-cd9285e"> <a class="ct-ac-title-text"> How can I consult with the consultant team? </a></div>
-                                                                                        <div id="c7e6a44ct_accordion-cd9285e" class="ct-ac-content">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <u>eiusmod tempor incididunt</u> ut labore.</div>
+                                                                                        <div class="ct-ac-title " data-target="#c7e6a44ct_accordion-cd9285e"> <a class="ct-ac-title-text"> Is the channel of document exchange safe? </a></div>
+                                                                                        <div id="c7e6a44ct_accordion-cd9285e" class="ct-ac-content">We have made a system where user have to get themselves approved twice which ensure utmost safety of their information and documents. </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
