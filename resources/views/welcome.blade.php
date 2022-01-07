@@ -2331,42 +2331,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8e70ce0" data-id="8e70ce0" data-element_type="column">
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div class="elementor-element elementor-element-fdb760d elementor-widget elementor-widget-ct_title" data-id="fdb760d" data-element_type="widget" data-widget_type="ct_title.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="ct-title1 style1">
-                                                                        <h3> <span>Newsletter</span> <i></i></h3>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-30cb1de elementor-widget elementor-widget-text-editor" data-id="30cb1de" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"> Send us a newsletter to get update</div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-element elementor-element-e7cbaa1 elementor-widget elementor-widget-ct_newsletter" data-id="e7cbaa1" data-element_type="widget" data-widget_type="ct_newsletter.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div id="ct_newsletter-e7cbaa1" class="ct-newsletter ct-newsletter1 style1 type-horizontal bg-image">
-                                                                        <form class="newsletter" action="/?na=s" method="post" onsubmit="return newsletter_check(this)"> <input type="hidden" name="nr" value="widget-minimal" />
-                                                                            <div class="tnp-field tnp-field-email"> <label>Your mail address</label> <input class="tnp-email" type="email" required name="ne" value="" placeholder="Your mail address"></div>
-                                                                            <div class="tnp-field tnp-field-button">
-                                                                            <input class="tnp-button" type="submit" value="Subscribe"></div>
-                                                                        </form>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                          
-                                                            <div class="elementor-element elementor-element-69767c7 elementor-widget elementor-widget-ct_icon" data-id="69767c7" data-element_type="widget" data-widget_type="ct_icon.default">
-                                                                <div class="elementor-widget-container">
-                                                                    <div class="ct-icon1 style1"> <a href="#"> <i aria-hidden="true" class="fab fa-facebook-f"></i> </a> <a href="#"> <i aria-hidden="true" class="fab fa-twitter"></i> </a> <a href="#"> <i aria-hidden="true" class="fab fa-dribbble"></i> </a>                                                                        <a href="#"> <i aria-hidden="true" class="fab fa-behance"></i> </a></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                </div>                                             
                                             </div>
                                         </div>
                                     </section>
@@ -2802,7 +2767,7 @@
     <script type='text/javascript' src='/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1' id='jquery-numerator-js'></script>
     <script type='text/javascript' src='/wp-content/themes/csuti/elementor/js/ct-counter-widget.js?ver=2.7.0' id='ct-counter-widget-js-js'></script>
     <script type='text/javascript' src='/wp-content/themes/csuti/assets/js/jquery.cookie.js?ver=1.4.1' id='ct-cookie-js'></script>
-    <script type='text/javascript' src='/wp-content/themes/csuti/assets/js/newsletter-popup.js?ver=all' id='newsletter-popup-js'></script>
+    <!-- <script type='text/javascript' src='/wp-content/themes/csuti/assets/js/newsletter-popup.js?ver=all' id='newsletter-popup-js'></script> -->
     <script type='text/javascript' src='/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
     <script type='text/javascript' id='wp-util-js-extra'>
         /* <![CDATA[ */
