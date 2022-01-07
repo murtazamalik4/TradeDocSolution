@@ -1203,13 +1203,13 @@
                                                                         <div class="menu-menu-footer-links-container">
                                                                             <ul id="menu-menu-footer-links" class="menu">
                                                                                 <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item menu-item-64"><a href="/" aria-current="page">Home</a></li>
-                                                                                <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="/team/">Team</a></li>
+                                                                               
                                                                                
                                                                               
                                                                                 <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="/about/">About us</a></li>
                                                                                
                                                                                 <!-- <li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="/testimonials/">Testimonials</a></li> -->
-                                                                                <li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="/contact/">Contact</a></li>
+                                                                            
 
                                                                                 <!-- <li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="/blog-grid-3-columns/">News</a></li> -->
                                                                                 <!-- <li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="/portfolio-grid/">Portfolio</a></li> -->
