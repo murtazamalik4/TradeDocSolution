@@ -1505,7 +1505,7 @@
     <script type='text/javascript' src='/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1' id='jquery-numerator-js'></script>
     <script type='text/javascript' src='/wp-content/themes/csuti/elementor/js/ct-counter-widget.js?ver=2.7.0' id='ct-counter-widget-js-js'></script>
     <script type='text/javascript' src='/wp-content/themes/csuti/assets/js/jquery.cookie.js?ver=1.4.1' id='ct-cookie-js'></script>
-    <script type='text/javascript' src='/wp-content/themes/csuti/assets/js/newsletter-popup.js?ver=all' id='newsletter-popup-js'></script>
+    <!-- <script type='text/javascript' src='/wp-content/themes/csuti/assets/js/newsletter-popup.js?ver=all' id='newsletter-popup-js'></script> -->
     <script type='text/javascript' src='/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
     <script type='text/javascript' id='wp-util-js-extra'>
         /* <![CDATA[ */
