@@ -1879,7 +1879,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22e6ca49" data-id="22e6ca49" data-element_type="column">
+                                        <!-- <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22e6ca49" data-id="22e6ca49" data-element_type="column">
                                             <div class="elementor-column-wrap elementor-element-populated">
                                                 <div class="elementor-widget-wrap">
                                                     <div class="elementor-element elementor-element-7de74b4e elementor-widget elementor-widget-text-editor" data-id="7de74b4e" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1889,7 +1889,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </section>
