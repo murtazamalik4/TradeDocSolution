@@ -1228,7 +1228,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8e70ce0" data-id="8e70ce0" data-element_type="column">
+                                                <!-- <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8e70ce0" data-id="8e70ce0" data-element_type="column">
                                                     <div class="elementor-column-wrap elementor-element-populated">
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-fdb760d elementor-widget elementor-widget-ct_title" data-id="fdb760d" data-element_type="widget" data-widget_type="ct_title.default">
@@ -1264,7 +1264,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </section>
                                     <section class="elementor-section elementor-top-section elementor-element elementor-element-a0e42c5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none"
                                         data-id="a0e42c5" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
