@@ -1094,7 +1094,7 @@
                                                                                                         </form> -->
 
                                                                                                         <div>
-                                                                                                            <img src="https://image.freepik.com/free-vector/mail-sent-concept-illustration_114360-96.jpg" alt="">
+                                                                                                            <img src="/wp-content/Mail-sent.png" alt="">
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
