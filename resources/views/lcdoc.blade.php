@@ -1076,7 +1076,7 @@
                                                                                                 <div class="elementor-element elementor-element-3bf5ce4 elementor-widget elementor-widget-ct_heading" data-id="3bf5ce4" data-element_type="widget" data-widget_type="ct_heading.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
-                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Talk to us </span></h3>
+                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Talk to us via mail </span></h3>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -1097,7 +1097,7 @@
                                                                                                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                                                                                             <ul></ul>
                                                                                                                         </div>
-                                                                                                                        <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
+                                                                                                                        <!-- <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
                                                                                                                             data-status="init">
                                                                                                                             <div style="display: none;"> <input type="hidden" name="_wpcf7" value="91" /> <input type="hidden" name="_wpcf7_version" value="5.5" /> <input type="hidden"
                                                                                                                                     name="_wpcf7_locale" value="en_US" /> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f91-p9-o1" /> <input type="hidden"
@@ -1112,7 +1112,11 @@
                                                                                                                 class="input-filled"><button type="submit" class="wpcf7-submit btn btn-block"><i class="fac fac-check-circle space-right"></i>Consult today</button></div>
                                                                                                         <div class="wpcf7-response-output"
                                                                                                             aria-hidden="true"></div>
-                                                                                                        </form>
+                                                                                                        </form> -->
+
+                                                                                                        <div>
+                                                                                                            <img src="/wp-content/uploads/mail-sent.png" alt="">
+                                                                                                        </div>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
