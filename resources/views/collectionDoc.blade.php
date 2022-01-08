@@ -1058,14 +1058,14 @@
                                                                                                 </div>
                                                                                                 <div class="elementor-element elementor-element-628ed8b elementor-widget elementor-widget-ct_ctf7" data-id="628ed8b" data-element_type="widget" data-widget_type="ct_ctf7.default">
                                                                                                     <div class="elementor-widget-container">
-                                                                                                        <div class="ct-contact-form-layout1 style1 wow fadeInUp">
+                                                                                                        <!-- <div class="ct-contact-form-layout1 style1 wow fadeInUp">
                                                                                                             <div class="ct-contact-form-inner">
                                                                                                                 <div class="ct-contact-form">
                                                                                                                     <div role="form" class="wpcf7" id="wpcf7-f91-p9-o1" lang="en-US" dir="ltr">
                                                                                                                         <div class="screen-reader-response">
                                                                                                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                                                                                             <ul></ul>
-                                                                                                                        </div>
+                                                                                                                        </div> -->
                                                                                                                         <!-- <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
                                                                                                                             data-status="init">
                                                                                                                             <div style="display: none;"> <input type="hidden" name="_wpcf7" value="91" /> <input type="hidden" name="_wpcf7_version" value="5.5" /> <input type="hidden"
