@@ -988,145 +988,131 @@
                                                 </section>
                                               
                                                
-                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-54df898 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="54df898"
-        data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-        <div class="elementor-background-overlay"></div>
-        <div class="elementor-container elementor-column-gap-extended ">
-            <div class="elementor-row">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b3779a" data-id="5b3779a" data-element_type="column">
-                    <div class="elementor-column-wrap elementor-element-populated">
-                        <div class="elementor-widget-wrap">
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-74105fd2 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none"
-                                data-id="74105fd2" data-element_type="section">
-                                <div class="elementor-container elementor-column-gap-extended ">
-                                    <div class="elementor-row">
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-109df74" data-id="109df74" data-element_type="column">
-                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-722e9b6 elementor-widget elementor-widget-ct_heading" data-id="722e9b6" data-element_type="widget" data-widget_type="ct_heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ct-heading h-align-  sub- ct-heading-left item-st-line-left1">
-                                                                <h3 class="item--title st-line-left1 " data-wow-delay="ms"> <span class="sp-main"> <i></i> Get in touch for any kind of help and informations </span></h3>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22e6ca49" data-id="22e6ca49" data-element_type="column">
-                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-7de74b4e elementor-widget elementor-widget-text-editor" data-id="7de74b4e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-text-editor elementor-clearfix"> We’re glad to discuss your organisation’s situation. So please contact us via the details below, or enter your request.</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-e6ee981 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none" data-id="e6ee981"
-                                data-element_type="section">
-                                <div class="elementor-container elementor-column-gap-extended ">
-                                    <div class="elementor-row">
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ad4d18f" data-id="ad4d18f" data-element_type="column">
-                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-962958d elementor-widget elementor-widget-ct_fancy_box" data-id="962958d" data-element_type="widget" data-widget_type="ct_fancy_box.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ct-fancy-box ct-fancy-box-layout3 style1 wow fadeInUp" data-wow-delay="ms">
-                                                                <div class="item--icon"> <i aria-hidden="true" class="fas fa-map-marker-alt"></i></div>
-                                                                <div class="item--holder">
-                                                                    <h3 class="item--title"> Our head office address:</h3>
-                                                                    <div class="item--description">S-6, Shan-e-Fiza Apartment, Koh-e-Fiza, Bhopal (M.P.)</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-8d2f9d4 elementor-widget elementor-widget-ct_fancy_box" data-id="8d2f9d4" data-element_type="widget" data-widget_type="ct_fancy_box.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ct-fancy-box ct-fancy-box-layout3 style1 wow fadeInUp" data-wow-delay="ms">
-                                                                <div class="item--icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i></div>
-                                                                <div class="item--holder">
-                                                                    <h3 class="item--title"> Call for help:</h3>
-                                                                    <div class="item--description"><b>IN: </b>00917024883131<br/><b>Dubai (UAE): </b> 00971 524694830</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-20ab5fb elementor-widget elementor-widget-ct_fancy_box" data-id="20ab5fb" data-element_type="widget" data-widget_type="ct_fancy_box.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ct-fancy-box ct-fancy-box-layout3 style1 wow fadeInUp" data-wow-delay="ms">
-                                                                <div class="item--icon"> <i aria-hidden="true" class="fas fa-envelope"></i></div>
-                                                                <div class="item--holder">
-                                                                    <h3 class="item--title"> Mail us for information</h3>
-                                                                    <div class="item--description">info@tradedocsolution.com</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d6ac5f8" data-id="d6ac5f8" data-element_type="column">
-                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-ac29c0c elementor-widget elementor-widget-ct_ctf7" data-id="ac29c0c" data-element_type="widget" data-widget_type="ct_ctf7.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ct-contact-form-layout1 style3 wow fadeInUp">
-                                                                <div class="ct-contact-form-inner">
-                                                                    <div class="ct-contact-form">
-                                                                        <div role="form" class="wpcf7" id="wpcf7-f2166-p9-o2" lang="en-US" dir="ltr">
-                                                                            <div class="screen-reader-response">
-                                                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                                                                <ul></ul>
+                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-9fc20d1 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none"
+                                                    data-id="9fc20d1" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                                    <div class="elementor-container elementor-column-gap-extended ">
+                                                        <div class="elementor-row">
+                                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fc3af54" data-id="fc3af54" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                    <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-element elementor-element-d58ce29 elementor-widget elementor-widget-spacer" data-id="d58ce29" data-element_type="widget" data-widget_type="spacer.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-spacer">
+                                                                                    <div class="elementor-spacer-inner"></div>
+                                                                                </div>
                                                                             </div>
-                                                                            <form action="/consultio/#wpcf7-f2166-p9-o2" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate" data-status="init">
-                                                                                <div style="display: none;"> <input type="hidden" name="_wpcf7" value="2166" /> <input type="hidden" name="_wpcf7_version" value="5.5" /> <input type="hidden" name="_wpcf7_locale" value="en_US" /> <input
-                                                                                        type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2166-p9-o2" /> <input type="hidden" name="_wpcf7_container_post" value="9" /> <input type="hidden" name="_wpcf7_posted_data_hash"
-                                                                                        value="" /></div>
-                                                                                <div class="row">
-                                                                                    <div class="input-filled col-lg-6 col-md-6"><span class="wpcf7-form-control-wrap first-name"><input type="text" name="first-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First name *" /></span></div>
-                                                                                    <div
-                                                                                        class="input-filled col-lg-6 col-md-6"><span class="wpcf7-form-control-wrap last-name"><input type="text" name="last-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last name *" /></span></div>
                                                                         </div>
-                                                                        <div class="row">
-                                                                            <div class="input-filled col-lg-6 col-md-6"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your mail *" /></span></div>
-                                                                            <div
-                                                                                class="input-filled col-lg-6 col-md-6"><span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone number *" /></span></div>
+                                                                        <div class="elementor-element elementor-element-269754b elementor-widget elementor-widget-ct_heading" data-id="269754b" data-element_type="widget" data-widget_type="ct_heading.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
+                                                                                    <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> You can learn more from our asked questions </span></h3>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-element elementor-element-cd9285e elementor-widget elementor-widget-ct_accordion" data-id="cd9285e" data-element_type="widget" data-widget_type="ct_accordion.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div id="ct_accordion-cd9285e" class="ct-accordion layout1 style1 wow fadeInUp">
+                                                                                    <div class="ct-accordion-item active">
+                                                                                        <div class="ct-ac-title active" data-target="#da12eecct_accordion-cd9285e"> <a class="ct-ac-title-text"> Who needs Trade Credit Insurance? </a></div>
+                                                                                        <div id="da12eecct_accordion-cd9285e" class="ct-ac-content" style="display:block;">Trade credit insurance offers multiple benefits to companies across numerous industries. Unfortunately, most companies choose to forgo this coverage and opt to self-insure. While self-insuring isn’t fundamentally flawed, this strategy does tie up capital that could be used for other things, such as developing the business or launching new products. 
+</div>
+                                                                                    </div>
+                                                                                    <div class="ct-accordion-item ">
+                                                                                        <div class="ct-ac-title " data-target="#d8c2527ct_accordion-cd9285e"> <a class="ct-ac-title-text"> What are the Benefits of Trade Credit Insurance? </a></div>
+                                                                                        <div id="d8c2527ct_accordion-cd9285e" class="ct-ac-content">Rapid Expansion, International Development,Sales Increase, Better Rapport, More Capital, Tax-Deductible, Increased Protection are some benefits.</div>
+                                                                                    </div>
+                                                                                    <div class="ct-accordion-item ">
+                                                                                        <div class="ct-ac-title " data-target="#5e4a690ct_accordion-cd9285e"> <a class="ct-ac-title-text"> What are the Documents required by the Insurance Company? - Part-1</a></div>
+                                                                                        <div id="5e4a690ct_accordion-cd9285e" class="ct-ac-content">All Commercial documents i.e. Financial Statement, Trade License Copy, Owner Passport copy, ID Copy.<br/>
+                                                                                            Aging report of the customers (Ongoing credit report from the system).<br/>
+                                                                                            Account statements of the customers to whom the coverage is required.
+                                                                                            
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="ct-accordion-item ">
+                                                                                        <div class="ct-ac-title " data-target="#c7e6a44ct_accordion-cd9285e"> <a class="ct-ac-title-text"> What are the Documents required by the Insurance Company? - Part-2</a></div>
+                                                                                        <div id="c7e6a44ct_accordion-cd9285e" class="ct-ac-content">Similar documents as submitted above in point 1 – from the customer for whom the coverage is required.<br/>
+                                                                                            Declaration of sole claim to be raised.</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="row">
-                                                                        <div class="input-filled col-lg-6 col-md-6"><span class="wpcf7-form-control-wrap your-web-address"><input type="text" name="your-web-address" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Web address *" /></span></div>
-                                                                        <div
-                                                                            class="input-filled col-lg-6 col-md-6"><span class="wpcf7-form-control-wrap your-service"><select name="your-service" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Services">Services</option><option value="Success fullfill">Success fullfill</option><option value="StartUp Business">StartUp Business</option><option value="Business Growth">Business Growth</option></select></span></div>
                                                                 </div>
-                                                                <div class="row">
-                                                                    <div class="input-filled col-12"><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Message..."></textarea></span></div>
-                                                                    <div
-                                                                        class="input-filled col-12"><button type="submit" class="wpcf7-submit btn btn-block"><i class="fac fac-arrow-circle-right space-right"></i>Send now</button></div>
                                                             </div>
-                                                            <div class="wpcf7-response-output" aria-hidden="true"></div>
-                                                            </form>
+                                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3bdb6bb" data-id="3bdb6bb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                                    <div class="elementor-background-overlay"></div>
+                                                                    <div class="elementor-widget-wrap">
+                                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-c08d440 elementor-section-boxed elementor-section-height-default elementor-section-height-default ct-header-fixed-none"
+                                                                            data-id="c08d440" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                            <div class="elementor-container elementor-column-gap-extended ">
+                                                                                <div class="elementor-row">
+                                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1dc9621" data-id="1dc9621" data-element_type="column">
+                                                                                        <div class="elementor-column-wrap elementor-element-populated">
+                                                                                            <div class="elementor-widget-wrap">
+                                                                                                <div class="elementor-element elementor-element-3bf5ce4 elementor-widget elementor-widget-ct_heading" data-id="3bf5ce4" data-element_type="widget" data-widget_type="ct_heading.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
+                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Talk to us via mail</span></h3>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div class="elementor-element elementor-element-919bc6b elementor-widget elementor-widget-text-editor" data-id="919bc6b" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="elementor-text-editor elementor-clearfix">
+                                                                                                            <p>Tell us about your requirements and let us take care of your documentation process.</p>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div class="elementor-element elementor-element-628ed8b elementor-widget elementor-widget-ct_ctf7" data-id="628ed8b" data-element_type="widget" data-widget_type="ct_ctf7.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <div class="ct-contact-form-layout1 style1 wow fadeInUp">
+                                                                                                            <div class="ct-contact-form-inner">
+                                                                                                                <div class="ct-contact-form">
+                                                                                                                    <div role="form" class="wpcf7" id="wpcf7-f91-p9-o1" lang="en-US" dir="ltr">
+                                                                                                                        <div class="screen-reader-response">
+                                                                                                                            <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                                                                                            <ul></ul>
+                                                                                                                        </div>
+                                                                                                                        <!-- <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
+                                                                                                                            data-status="init">
+                                                                                                                            <div style="display: none;"> <input type="hidden" name="_wpcf7" value="91" /> <input type="hidden" name="_wpcf7_version" value="5.5" /> <input type="hidden"
+                                                                                                                                    name="_wpcf7_locale" value="en_US" /> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f91-p9-o1" /> <input type="hidden"
+                                                                                                                                    name="_wpcf7_container_post" value="9" /> <input type="hidden" name="_wpcf7_posted_data_hash" value="" /></div>
+                                                                                                                            <div class="input-filled"><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name*" /></span></div>
+                                                                                                                            <div
+                                                                                                                                class="input-filled"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your mail*" /></span></div>
+                                                                                                                    <div
+                                                                                                                        class="input-filled"><span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone*" /></span></div>
+                                                                                                                
+                                                                                                            <div
+                                                                                                                class="input-filled"><button type="submit" class="wpcf7-submit btn btn-block"><i class="fac fac-check-circle space-right"></i>Consult today</button></div>
+                                                                                                        <div class="wpcf7-response-output"
+                                                                                                            aria-hidden="true"></div>
+                                                                                                        </form> -->
+
+                                                                                                        <div>
+                                                                                                            <img src="/wp-content/uploads/mail-sent.png" alt="">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         </div>
+                                                        </section>
                                                     </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            </section>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
-    </section>
+                        </section>
                     
 
     </div>

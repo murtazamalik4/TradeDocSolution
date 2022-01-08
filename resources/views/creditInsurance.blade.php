@@ -1055,7 +1055,7 @@
                                                                                                 <div class="elementor-element elementor-element-3bf5ce4 elementor-widget elementor-widget-ct_heading" data-id="3bf5ce4" data-element_type="widget" data-widget_type="ct_heading.default">
                                                                                                     <div class="elementor-widget-container">
                                                                                                         <div class="ct-heading h-align-  sub-style1 ct-heading-left item-st-default">
-                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Talk to us </span></h3>
+                                                                                                            <h3 class="item--title st-default " data-wow-delay="ms"> <span class="sp-main"> Talk to us via mail</span></h3>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
