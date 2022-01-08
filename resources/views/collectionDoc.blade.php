@@ -1066,7 +1066,7 @@
                                                                                                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                                                                                             <ul></ul>
                                                                                                                         </div>
-                                                                                                                        <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
+                                                                                                                        <!-- <form action="/consultio/#wpcf7-f91-p9-o1" method="post" class="wpcf7-form init cf7mls-no-scroll cf7mls-no-moving-animation" novalidate="novalidate"
                                                                                                                             data-status="init">
                                                                                                                             <div style="display: none;"> <input type="hidden" name="_wpcf7" value="91" /> <input type="hidden" name="_wpcf7_version" value="5.5" /> <input type="hidden"
                                                                                                                                     name="_wpcf7_locale" value="en_US" /> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f91-p9-o1" /> <input type="hidden"
@@ -1082,7 +1082,7 @@
                                                                                                                 class="input-filled"><button type="submit" class="wpcf7-submit btn btn-block"><i class="fac fac-check-circle space-right"></i>Consult today</button></div>
                                                                                                         <div class="wpcf7-response-output"
                                                                                                             aria-hidden="true"></div>
-                                                                                                        </form>
+                                                                                                        </form> -->
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
