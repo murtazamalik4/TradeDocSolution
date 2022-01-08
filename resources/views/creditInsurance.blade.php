@@ -1094,7 +1094,7 @@
                                                                                                         </form> -->
 
                                                                                                         <div>
-                                                                                                            <img src="/wp-content/Mail-sent.png" alt="">
+                                                                                                            <img src="/wp-content/uploads/mail-sent.png" alt="">
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
